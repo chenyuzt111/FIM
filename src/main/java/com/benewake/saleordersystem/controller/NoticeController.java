@@ -8,7 +8,6 @@ import com.benewake.saleordersystem.utils.HostHolder;
 import com.benewake.saleordersystem.utils.Result;
 import io.swagger.annotations.Api;
 import io.swagger.annotations.ApiOperation;
-
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

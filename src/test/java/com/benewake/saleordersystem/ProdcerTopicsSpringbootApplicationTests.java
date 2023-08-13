@@ -1,5 +1,6 @@
 package com.benewake.saleordersystem;
 
+import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.test.context.ContextConfiguration;
 
@@ -32,5 +33,7 @@ public class ProdcerTopicsSpringbootApplicationTests {
 //        rabbitTemplate.convertAndSend("NoticeDirectExchange", "notice", map, new CorrelationData(UUID.randomUUID().toString()));
 //
 //    }
+
+
 
 }
