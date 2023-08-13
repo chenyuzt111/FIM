@@ -1,19 +1,17 @@
-2023-08-10 14:13:59.928 [restartedMain] WARN  [,] c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.benewake.saleordersystem.entity.InquiryCode".
-2023-08-10 14:13:59.930 [restartedMain] WARN  [,] c.b.mybatisplus.core.injector.DefaultSqlInjector - class com.benewake.saleordersystem.entity.InquiryCode ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
-2023-08-10 14:13:59.952 [restartedMain] WARN  [,] c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "java.util.Map".
-2023-08-10 14:13:59.952 [restartedMain] WARN  [,] c.b.mybatisplus.core.injector.DefaultSqlInjector - interface java.util.Map ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
-2023-08-10 14:14:01.248 [restartedMain] WARN  [,] c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.benewake.saleordersystem.entity.Past.PastPredictionCompany".
-2023-08-10 14:14:01.249 [restartedMain] WARN  [,] c.b.mybatisplus.core.injector.DefaultSqlInjector - class com.benewake.saleordersystem.entity.Past.PastPredictionCompany ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
-2023-08-10 14:17:36.721 [http-nio-8080-exec-7] WARN  [,] o.s.w.s.m.support.DefaultHandlerExceptionResolver - Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'GET' not supported]
-2023-08-10 14:24:12.249 [restartedMain] WARN  [,] c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.benewake.saleordersystem.entity.InquiryCode".
-2023-08-10 14:24:12.250 [restartedMain] WARN  [,] c.b.mybatisplus.core.injector.DefaultSqlInjector - class com.benewake.saleordersystem.entity.InquiryCode ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
-2023-08-10 14:24:12.273 [restartedMain] WARN  [,] c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "java.util.Map".
-2023-08-10 14:24:12.273 [restartedMain] WARN  [,] c.b.mybatisplus.core.injector.DefaultSqlInjector - interface java.util.Map ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
-2023-08-10 14:24:13.563 [restartedMain] WARN  [,] c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.benewake.saleordersystem.entity.Past.PastPredictionCompany".
-2023-08-10 14:24:13.563 [restartedMain] WARN  [,] c.b.mybatisplus.core.injector.DefaultSqlInjector - class com.benewake.saleordersystem.entity.Past.PastPredictionCompany ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
-2023-08-10 14:24:17.234 [http-nio-8080-exec-1] WARN  [,] o.s.w.s.m.support.DefaultHandlerExceptionResolver - Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'GET' not supported]
-2023-08-10 14:26:14.973 [http-nio-8080-exec-6] WARN  [,] o.s.w.s.m.support.DefaultHandlerExceptionResolver - Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'GET' not supported]
-2023-08-10 14:26:40.881 [http-nio-8080-exec-6] WARN  [,] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.mybatis.spring.MyBatisSystemException: nested exception is org.apache.ibatis.exceptions.PersistenceException: 
+2023-08-13 14:56:49.315 [restartedMain] WARN  [,] c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.benewake.saleordersystem.entity.InquiryCode".
+2023-08-13 14:56:49.326 [restartedMain] WARN  [,] c.b.mybatisplus.core.injector.DefaultSqlInjector - class com.benewake.saleordersystem.entity.InquiryCode ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+2023-08-13 14:56:49.348 [restartedMain] WARN  [,] c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "java.util.Map".
+2023-08-13 14:56:49.348 [restartedMain] WARN  [,] c.b.mybatisplus.core.injector.DefaultSqlInjector - interface java.util.Map ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+2023-08-13 14:56:50.865 [restartedMain] WARN  [,] c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.benewake.saleordersystem.entity.Past.PastPredictionCompany".
+2023-08-13 14:56:50.865 [restartedMain] WARN  [,] c.b.mybatisplus.core.injector.DefaultSqlInjector - class com.benewake.saleordersystem.entity.Past.PastPredictionCompany ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+2023-08-13 14:56:50.977 [restartedMain] WARN  [,] o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'; nested exception is org.springframework.boot.web.server.PortInUseException: Port 8080 is already in use
+2023-08-13 14:59:38.478 [restartedMain] WARN  [,] c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.benewake.saleordersystem.entity.InquiryCode".
+2023-08-13 14:59:38.479 [restartedMain] WARN  [,] c.b.mybatisplus.core.injector.DefaultSqlInjector - class com.benewake.saleordersystem.entity.InquiryCode ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+2023-08-13 14:59:38.503 [restartedMain] WARN  [,] c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "java.util.Map".
+2023-08-13 14:59:38.504 [restartedMain] WARN  [,] c.b.mybatisplus.core.injector.DefaultSqlInjector - interface java.util.Map ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+2023-08-13 14:59:39.818 [restartedMain] WARN  [,] c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.benewake.saleordersystem.entity.Past.PastPredictionCompany".
+2023-08-13 14:59:39.818 [restartedMain] WARN  [,] c.b.mybatisplus.core.injector.DefaultSqlInjector - class com.benewake.saleordersystem.entity.Past.PastPredictionCompany ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+2023-08-13 15:01:11.780 [http-nio-8080-exec-3] WARN  [,] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.mybatis.spring.MyBatisSystemException: nested exception is org.apache.ibatis.exceptions.PersistenceException: 
 ### Error querying database.  Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
 
 The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
@@ -23,7 +21,7 @@ The last packet sent successfully to the server was 0 milliseconds ago. The driv
 ### Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
 
 The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.]
-2023-08-10 14:27:02.891 [http-nio-8080-exec-3] WARN  [,] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.mybatis.spring.MyBatisSystemException: nested exception is org.apache.ibatis.exceptions.PersistenceException: 
+2023-08-13 15:02:39.802 [http-nio-8080-exec-4] WARN  [,] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.mybatis.spring.MyBatisSystemException: nested exception is org.apache.ibatis.exceptions.PersistenceException: 
 ### Error querying database.  Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
 
 The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
@@ -33,7 +31,7 @@ The last packet sent successfully to the server was 0 milliseconds ago. The driv
 ### Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
 
 The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.]
-2023-08-10 14:28:53.182 [http-nio-8080-exec-8] WARN  [,] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.mybatis.spring.MyBatisSystemException: nested exception is org.apache.ibatis.exceptions.PersistenceException: 
+2023-08-13 15:03:23.883 [http-nio-8080-exec-8] WARN  [,] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.mybatis.spring.MyBatisSystemException: nested exception is org.apache.ibatis.exceptions.PersistenceException: 
 ### Error querying database.  Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
 
 The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
@@ -43,7 +41,13 @@ The last packet sent successfully to the server was 0 milliseconds ago. The driv
 ### Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
 
 The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.]
-2023-08-10 14:29:15.240 [http-nio-8080-exec-7] WARN  [,] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.mybatis.spring.MyBatisSystemException: nested exception is org.apache.ibatis.exceptions.PersistenceException: 
+2023-08-13 15:05:03.312 [restartedMain] WARN  [,] c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.benewake.saleordersystem.entity.InquiryCode".
+2023-08-13 15:05:03.313 [restartedMain] WARN  [,] c.b.mybatisplus.core.injector.DefaultSqlInjector - class com.benewake.saleordersystem.entity.InquiryCode ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+2023-08-13 15:05:03.335 [restartedMain] WARN  [,] c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "java.util.Map".
+2023-08-13 15:05:03.335 [restartedMain] WARN  [,] c.b.mybatisplus.core.injector.DefaultSqlInjector - interface java.util.Map ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+2023-08-13 15:05:04.643 [restartedMain] WARN  [,] c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.benewake.saleordersystem.entity.Past.PastPredictionCompany".
+2023-08-13 15:05:04.643 [restartedMain] WARN  [,] c.b.mybatisplus.core.injector.DefaultSqlInjector - class com.benewake.saleordersystem.entity.Past.PastPredictionCompany ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+2023-08-13 15:05:58.983 [http-nio-8080-exec-1] WARN  [,] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.mybatis.spring.MyBatisSystemException: nested exception is org.apache.ibatis.exceptions.PersistenceException: 
 ### Error querying database.  Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
 
 The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
@@ -53,7 +57,13 @@ The last packet sent successfully to the server was 0 milliseconds ago. The driv
 ### Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
 
 The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.]
-2023-08-10 14:29:37.297 [http-nio-8080-exec-10] WARN  [,] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.mybatis.spring.MyBatisSystemException: nested exception is org.apache.ibatis.exceptions.PersistenceException: 
+2023-08-13 15:07:26.799 [restartedMain] WARN  [,] c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.benewake.saleordersystem.entity.InquiryCode".
+2023-08-13 15:07:26.799 [restartedMain] WARN  [,] c.b.mybatisplus.core.injector.DefaultSqlInjector - class com.benewake.saleordersystem.entity.InquiryCode ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+2023-08-13 15:07:26.825 [restartedMain] WARN  [,] c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "java.util.Map".
+2023-08-13 15:07:26.825 [restartedMain] WARN  [,] c.b.mybatisplus.core.injector.DefaultSqlInjector - interface java.util.Map ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+2023-08-13 15:07:28.056 [restartedMain] WARN  [,] c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.benewake.saleordersystem.entity.Past.PastPredictionCompany".
+2023-08-13 15:07:28.057 [restartedMain] WARN  [,] c.b.mybatisplus.core.injector.DefaultSqlInjector - class com.benewake.saleordersystem.entity.Past.PastPredictionCompany ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+2023-08-13 15:08:28.701 [http-nio-8080-exec-1] WARN  [,] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.mybatis.spring.MyBatisSystemException: nested exception is org.apache.ibatis.exceptions.PersistenceException: 
 ### Error querying database.  Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
 
 The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
@@ -63,14 +73,25 @@ The last packet sent successfully to the server was 0 milliseconds ago. The driv
 ### Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
 
 The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.]
-2023-08-10 15:04:59.998 [restartedMain] WARN  [,] c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.benewake.saleordersystem.entity.InquiryCode".
-2023-08-10 15:04:59.998 [restartedMain] WARN  [,] c.b.mybatisplus.core.injector.DefaultSqlInjector - class com.benewake.saleordersystem.entity.InquiryCode ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
-2023-08-10 15:05:00.029 [restartedMain] WARN  [,] c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "java.util.Map".
-2023-08-10 15:05:00.030 [restartedMain] WARN  [,] c.b.mybatisplus.core.injector.DefaultSqlInjector - interface java.util.Map ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
-2023-08-10 15:05:01.944 [restartedMain] WARN  [,] c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.benewake.saleordersystem.entity.Past.PastPredictionCompany".
-2023-08-10 15:05:01.944 [restartedMain] WARN  [,] c.b.mybatisplus.core.injector.DefaultSqlInjector - class com.benewake.saleordersystem.entity.Past.PastPredictionCompany ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
-2023-08-10 15:06:12.531 [http-nio-8080-exec-4] WARN  [,] o.s.w.s.m.support.DefaultHandlerExceptionResolver - Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'GET' not supported]
-2023-08-10 15:06:51.162 [http-nio-8080-exec-4] WARN  [,] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.mybatis.spring.MyBatisSystemException: nested exception is org.apache.ibatis.exceptions.PersistenceException: 
+2023-08-13 15:11:29.249 [restartedMain] WARN  [,] c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.benewake.saleordersystem.entity.InquiryCode".
+2023-08-13 15:11:29.249 [restartedMain] WARN  [,] c.b.mybatisplus.core.injector.DefaultSqlInjector - class com.benewake.saleordersystem.entity.InquiryCode ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+2023-08-13 15:11:29.271 [restartedMain] WARN  [,] c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "java.util.Map".
+2023-08-13 15:11:29.271 [restartedMain] WARN  [,] c.b.mybatisplus.core.injector.DefaultSqlInjector - interface java.util.Map ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+2023-08-13 15:11:30.608 [restartedMain] WARN  [,] c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.benewake.saleordersystem.entity.Past.PastPredictionCompany".
+2023-08-13 15:11:30.608 [restartedMain] WARN  [,] c.b.mybatisplus.core.injector.DefaultSqlInjector - class com.benewake.saleordersystem.entity.Past.PastPredictionCompany ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+2023-08-13 15:11:39.165 [http-nio-8080-exec-1] WARN  [,] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.mybatis.spring.MyBatisSystemException: nested exception is org.apache.ibatis.exceptions.PersistenceException: 
+### Error querying database.  Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+### The error may exist in com/benewake/saleordersystem/mapper/LoginTicketMapper.java (best guess)
+### The error may involve com.benewake.saleordersystem.mapper.LoginTicketMapper.selectList
+### The error occurred while executing a query
+### Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)]
+2023-08-13 15:13:25.130 [restartedMain] WARN  [,] c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.benewake.saleordersystem.entity.InquiryCode".
+2023-08-13 15:13:25.130 [restartedMain] WARN  [,] c.b.mybatisplus.core.injector.DefaultSqlInjector - class com.benewake.saleordersystem.entity.InquiryCode ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+2023-08-13 15:13:25.159 [restartedMain] WARN  [,] c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "java.util.Map".
+2023-08-13 15:13:25.159 [restartedMain] WARN  [,] c.b.mybatisplus.core.injector.DefaultSqlInjector - interface java.util.Map ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+2023-08-13 15:13:26.676 [restartedMain] WARN  [,] c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.benewake.saleordersystem.entity.Past.PastPredictionCompany".
+2023-08-13 15:13:26.676 [restartedMain] WARN  [,] c.b.mybatisplus.core.injector.DefaultSqlInjector - class com.benewake.saleordersystem.entity.Past.PastPredictionCompany ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+2023-08-13 15:14:15.602 [http-nio-8080-exec-1] WARN  [,] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.mybatis.spring.MyBatisSystemException: nested exception is org.apache.ibatis.exceptions.PersistenceException: 
 ### Error querying database.  Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
 
 The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
@@ -80,30 +101,45 @@ The last packet sent successfully to the server was 0 milliseconds ago. The driv
 ### Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
 
 The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.]
-2023-08-10 15:07:13.209 [http-nio-8080-exec-3] WARN  [,] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.mybatis.spring.MyBatisSystemException: nested exception is org.apache.ibatis.exceptions.PersistenceException: 
-### Error querying database.  Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
-
-The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2023-08-13 15:15:26.982 [restartedMain] WARN  [,] c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.benewake.saleordersystem.entity.InquiryCode".
+2023-08-13 15:15:26.983 [restartedMain] WARN  [,] c.b.mybatisplus.core.injector.DefaultSqlInjector - class com.benewake.saleordersystem.entity.InquiryCode ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+2023-08-13 15:15:27.007 [restartedMain] WARN  [,] c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "java.util.Map".
+2023-08-13 15:15:27.008 [restartedMain] WARN  [,] c.b.mybatisplus.core.injector.DefaultSqlInjector - interface java.util.Map ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+2023-08-13 15:15:28.264 [restartedMain] WARN  [,] c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.benewake.saleordersystem.entity.Past.PastPredictionCompany".
+2023-08-13 15:15:28.266 [restartedMain] WARN  [,] c.b.mybatisplus.core.injector.DefaultSqlInjector - class com.benewake.saleordersystem.entity.Past.PastPredictionCompany ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+2023-08-13 15:15:35.202 [http-nio-8080-exec-1] WARN  [,] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.mybatis.spring.MyBatisSystemException: nested exception is org.apache.ibatis.exceptions.PersistenceException: 
+### Error querying database.  Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
 ### The error may exist in com/benewake/saleordersystem/mapper/LoginTicketMapper.java (best guess)
 ### The error may involve com.benewake.saleordersystem.mapper.LoginTicketMapper.selectList
 ### The error occurred while executing a query
-### Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
-
-The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.]
-2023-08-10 15:07:35.262 [http-nio-8080-exec-2] WARN  [,] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.mybatis.spring.MyBatisSystemException: nested exception is org.apache.ibatis.exceptions.PersistenceException: 
-### Error querying database.  Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
-
-The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+### Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)]
+2023-08-13 15:18:08.782 [restartedMain] WARN  [,] c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.benewake.saleordersystem.entity.InquiryCode".
+2023-08-13 15:18:08.784 [restartedMain] WARN  [,] c.b.mybatisplus.core.injector.DefaultSqlInjector - class com.benewake.saleordersystem.entity.InquiryCode ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+2023-08-13 15:18:08.802 [restartedMain] WARN  [,] c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "java.util.Map".
+2023-08-13 15:18:08.802 [restartedMain] WARN  [,] c.b.mybatisplus.core.injector.DefaultSqlInjector - interface java.util.Map ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+2023-08-13 15:18:10.039 [restartedMain] WARN  [,] c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.benewake.saleordersystem.entity.Past.PastPredictionCompany".
+2023-08-13 15:18:10.039 [restartedMain] WARN  [,] c.b.mybatisplus.core.injector.DefaultSqlInjector - class com.benewake.saleordersystem.entity.Past.PastPredictionCompany ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+2023-08-13 15:18:17.123 [http-nio-8080-exec-1] WARN  [,] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.mybatis.spring.MyBatisSystemException: nested exception is org.apache.ibatis.exceptions.PersistenceException: 
+### Error querying database.  Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
 ### The error may exist in com/benewake/saleordersystem/mapper/LoginTicketMapper.java (best guess)
 ### The error may involve com.benewake.saleordersystem.mapper.LoginTicketMapper.selectList
 ### The error occurred while executing a query
-### Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
-
-The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.]
-2023-08-10 22:55:11.726 [restartedMain] WARN  [,] c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.benewake.saleordersystem.entity.InquiryCode".
-2023-08-10 22:55:11.739 [restartedMain] WARN  [,] c.b.mybatisplus.core.injector.DefaultSqlInjector - class com.benewake.saleordersystem.entity.InquiryCode ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
-2023-08-10 22:55:11.778 [restartedMain] WARN  [,] c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "java.util.Map".
-2023-08-10 22:55:11.778 [restartedMain] WARN  [,] c.b.mybatisplus.core.injector.DefaultSqlInjector - interface java.util.Map ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
-2023-08-10 22:55:13.887 [restartedMain] WARN  [,] c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.benewake.saleordersystem.entity.Past.PastPredictionCompany".
-2023-08-10 22:55:13.887 [restartedMain] WARN  [,] c.b.mybatisplus.core.injector.DefaultSqlInjector - class com.benewake.saleordersystem.entity.Past.PastPredictionCompany ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
-2023-08-10 22:55:14.057 [restartedMain] WARN  [,] o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'; nested exception is org.springframework.boot.web.server.PortInUseException: Port 8080 is already in use
+### Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)]
+2023-08-13 15:21:12.337 [restartedMain] WARN  [,] c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.benewake.saleordersystem.entity.InquiryCode".
+2023-08-13 15:21:12.337 [restartedMain] WARN  [,] c.b.mybatisplus.core.injector.DefaultSqlInjector - class com.benewake.saleordersystem.entity.InquiryCode ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+2023-08-13 15:21:12.357 [restartedMain] WARN  [,] c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "java.util.Map".
+2023-08-13 15:21:12.358 [restartedMain] WARN  [,] c.b.mybatisplus.core.injector.DefaultSqlInjector - interface java.util.Map ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+2023-08-13 15:21:14.007 [restartedMain] WARN  [,] c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.benewake.saleordersystem.entity.Past.PastPredictionCompany".
+2023-08-13 15:21:14.007 [restartedMain] WARN  [,] c.b.mybatisplus.core.injector.DefaultSqlInjector - class com.benewake.saleordersystem.entity.Past.PastPredictionCompany ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+2023-08-13 15:21:24.095 [http-nio-8080-exec-1] WARN  [,] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.mybatis.spring.MyBatisSystemException: nested exception is org.apache.ibatis.exceptions.PersistenceException: 
+### Error querying database.  Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is java.sql.SQLException: The server time zone value '�й���׼ʱ��' is unrecognized or represents more than one time zone. You must configure either the server or JDBC driver (via the 'serverTimezone' configuration property) to use a more specific time zone value if you want to utilize time zone support.
+### The error may exist in com/benewake/saleordersystem/mapper/LoginTicketMapper.java (best guess)
+### The error may involve com.benewake.saleordersystem.mapper.LoginTicketMapper.selectList
+### The error occurred while executing a query
+### Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is java.sql.SQLException: The server time zone value '�й���׼ʱ��' is unrecognized or represents more than one time zone. You must configure either the server or JDBC driver (via the 'serverTimezone' configuration property) to use a more specific time zone value if you want to utilize time zone support.]
+2023-08-13 15:22:08.220 [restartedMain] WARN  [,] c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.benewake.saleordersystem.entity.InquiryCode".
+2023-08-13 15:22:08.220 [restartedMain] WARN  [,] c.b.mybatisplus.core.injector.DefaultSqlInjector - class com.benewake.saleordersystem.entity.InquiryCode ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+2023-08-13 15:22:08.244 [restartedMain] WARN  [,] c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "java.util.Map".
+2023-08-13 15:22:08.244 [restartedMain] WARN  [,] c.b.mybatisplus.core.injector.DefaultSqlInjector - interface java.util.Map ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+2023-08-13 15:22:09.517 [restartedMain] WARN  [,] c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.benewake.saleordersystem.entity.Past.PastPredictionCompany".
+2023-08-13 15:22:09.518 [restartedMain] WARN  [,] c.b.mybatisplus.core.injector.DefaultSqlInjector - class com.benewake.saleordersystem.entity.Past.PastPredictionCompany ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
