@@ -20,7 +20,7 @@ import java.util.Map;
  * 描 述： TODO
  */
 @Api(tags = "通知管理")
-@RestController
+@RestController//第二次使用
 @RequestMapping("/notice")
 public class NoticeController {
     @Autowired
