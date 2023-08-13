@@ -1,0 +1,222 @@
+2023-08-10 09:02:55.740 [restartedMain] WARN  [,] c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.benewake.saleordersystem.entity.InquiryCode".
+2023-08-10 09:02:55.753 [restartedMain] WARN  [,] c.b.mybatisplus.core.injector.DefaultSqlInjector - class com.benewake.saleordersystem.entity.InquiryCode ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+2023-08-10 09:02:55.795 [restartedMain] WARN  [,] c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "java.util.Map".
+2023-08-10 09:02:55.795 [restartedMain] WARN  [,] c.b.mybatisplus.core.injector.DefaultSqlInjector - interface java.util.Map ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+2023-08-10 09:02:56.986 [restartedMain] WARN  [,] c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.benewake.saleordersystem.entity.Past.PastPredictionCompany".
+2023-08-10 09:02:56.986 [restartedMain] WARN  [,] c.b.mybatisplus.core.injector.DefaultSqlInjector - class com.benewake.saleordersystem.entity.Past.PastPredictionCompany ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+2023-08-10 09:06:24.203 [restartedMain] WARN  [,] c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.benewake.saleordersystem.entity.InquiryCode".
+2023-08-10 09:06:24.203 [restartedMain] WARN  [,] c.b.mybatisplus.core.injector.DefaultSqlInjector - class com.benewake.saleordersystem.entity.InquiryCode ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+2023-08-10 09:06:24.270 [restartedMain] WARN  [,] c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "java.util.Map".
+2023-08-10 09:06:24.270 [restartedMain] WARN  [,] c.b.mybatisplus.core.injector.DefaultSqlInjector - interface java.util.Map ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+2023-08-10 09:06:25.698 [restartedMain] WARN  [,] c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.benewake.saleordersystem.entity.Past.PastPredictionCompany".
+2023-08-10 09:06:25.699 [restartedMain] WARN  [,] c.b.mybatisplus.core.injector.DefaultSqlInjector - class com.benewake.saleordersystem.entity.Past.PastPredictionCompany ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+2023-08-10 09:09:09.667 [restartedMain] WARN  [,] c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.benewake.saleordersystem.entity.InquiryCode".
+2023-08-10 09:09:09.668 [restartedMain] WARN  [,] c.b.mybatisplus.core.injector.DefaultSqlInjector - class com.benewake.saleordersystem.entity.InquiryCode ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+2023-08-10 09:09:09.711 [restartedMain] WARN  [,] c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "java.util.Map".
+2023-08-10 09:09:09.711 [restartedMain] WARN  [,] c.b.mybatisplus.core.injector.DefaultSqlInjector - interface java.util.Map ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+2023-08-10 09:09:10.859 [restartedMain] WARN  [,] c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.benewake.saleordersystem.entity.Past.PastPredictionCompany".
+2023-08-10 09:09:10.860 [restartedMain] WARN  [,] c.b.mybatisplus.core.injector.DefaultSqlInjector - class com.benewake.saleordersystem.entity.Past.PastPredictionCompany ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+2023-08-10 09:19:16.089 [restartedMain] WARN  [,] c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.benewake.saleordersystem.entity.InquiryCode".
+2023-08-10 09:19:16.089 [restartedMain] WARN  [,] c.b.mybatisplus.core.injector.DefaultSqlInjector - class com.benewake.saleordersystem.entity.InquiryCode ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+2023-08-10 09:19:16.135 [restartedMain] WARN  [,] c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "java.util.Map".
+2023-08-10 09:19:16.135 [restartedMain] WARN  [,] c.b.mybatisplus.core.injector.DefaultSqlInjector - interface java.util.Map ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+2023-08-10 09:19:17.311 [restartedMain] WARN  [,] c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.benewake.saleordersystem.entity.Past.PastPredictionCompany".
+2023-08-10 09:19:17.312 [restartedMain] WARN  [,] c.b.mybatisplus.core.injector.DefaultSqlInjector - class com.benewake.saleordersystem.entity.Past.PastPredictionCompany ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+2023-08-10 09:19:52.540 [restartedMain] WARN  [,] c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.benewake.saleordersystem.entity.InquiryCode".
+2023-08-10 09:19:52.540 [restartedMain] WARN  [,] c.b.mybatisplus.core.injector.DefaultSqlInjector - class com.benewake.saleordersystem.entity.InquiryCode ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+2023-08-10 09:19:52.588 [restartedMain] WARN  [,] c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "java.util.Map".
+2023-08-10 09:19:52.589 [restartedMain] WARN  [,] c.b.mybatisplus.core.injector.DefaultSqlInjector - interface java.util.Map ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+2023-08-10 09:19:53.775 [restartedMain] WARN  [,] c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.benewake.saleordersystem.entity.Past.PastPredictionCompany".
+2023-08-10 09:19:53.775 [restartedMain] WARN  [,] c.b.mybatisplus.core.injector.DefaultSqlInjector - class com.benewake.saleordersystem.entity.Past.PastPredictionCompany ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+2023-08-10 09:24:23.756 [restartedMain] WARN  [,] c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.benewake.saleordersystem.entity.InquiryCode".
+2023-08-10 09:24:23.756 [restartedMain] WARN  [,] c.b.mybatisplus.core.injector.DefaultSqlInjector - class com.benewake.saleordersystem.entity.InquiryCode ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+2023-08-10 09:24:23.794 [restartedMain] WARN  [,] c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "java.util.Map".
+2023-08-10 09:24:23.794 [restartedMain] WARN  [,] c.b.mybatisplus.core.injector.DefaultSqlInjector - interface java.util.Map ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+2023-08-10 09:24:24.491 [restartedMain] WARN  [,] c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.benewake.saleordersystem.entity.Past.PastPredictionCompany".
+2023-08-10 09:24:24.491 [restartedMain] WARN  [,] c.b.mybatisplus.core.injector.DefaultSqlInjector - class com.benewake.saleordersystem.entity.Past.PastPredictionCompany ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+2023-08-10 09:24:27.200 [main] WARN  [,] c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.benewake.saleordersystem.entity.InquiryCode".
+2023-08-10 09:24:27.200 [main] WARN  [,] c.b.mybatisplus.core.injector.DefaultSqlInjector - class com.benewake.saleordersystem.entity.InquiryCode ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+2023-08-10 09:24:27.266 [main] WARN  [,] c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "java.util.Map".
+2023-08-10 09:24:27.266 [main] WARN  [,] c.b.mybatisplus.core.injector.DefaultSqlInjector - interface java.util.Map ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+2023-08-10 09:24:29.679 [main] WARN  [,] c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.benewake.saleordersystem.entity.Past.PastPredictionCompany".
+2023-08-10 09:24:29.679 [main] WARN  [,] c.b.mybatisplus.core.injector.DefaultSqlInjector - class com.benewake.saleordersystem.entity.Past.PastPredictionCompany ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+2023-08-10 09:27:25.810 [main] WARN  [,] c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.benewake.saleordersystem.entity.InquiryCode".
+2023-08-10 09:27:25.811 [main] WARN  [,] c.b.mybatisplus.core.injector.DefaultSqlInjector - class com.benewake.saleordersystem.entity.InquiryCode ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+2023-08-10 09:27:25.871 [main] WARN  [,] c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "java.util.Map".
+2023-08-10 09:27:25.871 [main] WARN  [,] c.b.mybatisplus.core.injector.DefaultSqlInjector - interface java.util.Map ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+2023-08-10 09:27:28.275 [main] WARN  [,] c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.benewake.saleordersystem.entity.Past.PastPredictionCompany".
+2023-08-10 09:27:28.276 [main] WARN  [,] c.b.mybatisplus.core.injector.DefaultSqlInjector - class com.benewake.saleordersystem.entity.Past.PastPredictionCompany ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+2023-08-10 09:31:08.937 [main] WARN  [,] c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.benewake.saleordersystem.entity.InquiryCode".
+2023-08-10 09:31:08.938 [main] WARN  [,] c.b.mybatisplus.core.injector.DefaultSqlInjector - class com.benewake.saleordersystem.entity.InquiryCode ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+2023-08-10 09:31:09.005 [main] WARN  [,] c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "java.util.Map".
+2023-08-10 09:31:09.005 [main] WARN  [,] c.b.mybatisplus.core.injector.DefaultSqlInjector - interface java.util.Map ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+2023-08-10 09:31:11.363 [main] WARN  [,] c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.benewake.saleordersystem.entity.Past.PastPredictionCompany".
+2023-08-10 09:31:11.363 [main] WARN  [,] c.b.mybatisplus.core.injector.DefaultSqlInjector - class com.benewake.saleordersystem.entity.Past.PastPredictionCompany ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+2023-08-10 09:34:38.895 [main] WARN  [,] c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.benewake.saleordersystem.entity.InquiryCode".
+2023-08-10 09:34:38.895 [main] WARN  [,] c.b.mybatisplus.core.injector.DefaultSqlInjector - class com.benewake.saleordersystem.entity.InquiryCode ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+2023-08-10 09:34:38.953 [main] WARN  [,] c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "java.util.Map".
+2023-08-10 09:34:38.953 [main] WARN  [,] c.b.mybatisplus.core.injector.DefaultSqlInjector - interface java.util.Map ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+2023-08-10 09:34:41.305 [main] WARN  [,] c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.benewake.saleordersystem.entity.Past.PastPredictionCompany".
+2023-08-10 09:34:41.306 [main] WARN  [,] c.b.mybatisplus.core.injector.DefaultSqlInjector - class com.benewake.saleordersystem.entity.Past.PastPredictionCompany ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+2023-08-10 09:35:37.233 [main] WARN  [,] c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.benewake.saleordersystem.entity.InquiryCode".
+2023-08-10 09:35:37.233 [main] WARN  [,] c.b.mybatisplus.core.injector.DefaultSqlInjector - class com.benewake.saleordersystem.entity.InquiryCode ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+2023-08-10 09:35:37.296 [main] WARN  [,] c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "java.util.Map".
+2023-08-10 09:35:37.296 [main] WARN  [,] c.b.mybatisplus.core.injector.DefaultSqlInjector - interface java.util.Map ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+2023-08-10 09:35:39.626 [main] WARN  [,] c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.benewake.saleordersystem.entity.Past.PastPredictionCompany".
+2023-08-10 09:35:39.627 [main] WARN  [,] c.b.mybatisplus.core.injector.DefaultSqlInjector - class com.benewake.saleordersystem.entity.Past.PastPredictionCompany ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+2023-08-10 09:39:24.263 [main] WARN  [,] c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.benewake.saleordersystem.entity.InquiryCode".
+2023-08-10 09:39:24.263 [main] WARN  [,] c.b.mybatisplus.core.injector.DefaultSqlInjector - class com.benewake.saleordersystem.entity.InquiryCode ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+2023-08-10 09:39:24.332 [main] WARN  [,] c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "java.util.Map".
+2023-08-10 09:39:24.332 [main] WARN  [,] c.b.mybatisplus.core.injector.DefaultSqlInjector - interface java.util.Map ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+2023-08-10 09:39:27.223 [main] WARN  [,] c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.benewake.saleordersystem.entity.Past.PastPredictionCompany".
+2023-08-10 09:39:27.223 [main] WARN  [,] c.b.mybatisplus.core.injector.DefaultSqlInjector - class com.benewake.saleordersystem.entity.Past.PastPredictionCompany ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+2023-08-10 10:09:08.484 [restartedMain] WARN  [,] c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.benewake.saleordersystem.entity.InquiryCode".
+2023-08-10 10:09:08.485 [restartedMain] WARN  [,] c.b.mybatisplus.core.injector.DefaultSqlInjector - class com.benewake.saleordersystem.entity.InquiryCode ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+2023-08-10 10:09:08.505 [restartedMain] WARN  [,] c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "java.util.Map".
+2023-08-10 10:09:08.505 [restartedMain] WARN  [,] c.b.mybatisplus.core.injector.DefaultSqlInjector - interface java.util.Map ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+2023-08-10 10:09:09.690 [restartedMain] WARN  [,] c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.benewake.saleordersystem.entity.Past.PastPredictionCompany".
+2023-08-10 10:09:09.690 [restartedMain] WARN  [,] c.b.mybatisplus.core.injector.DefaultSqlInjector - class com.benewake.saleordersystem.entity.Past.PastPredictionCompany ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+2023-08-10 10:14:09.619 [http-nio-8080-exec-2] WARN  [,] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.springframework.dao.DataIntegrityViolationException: 
+### Error updating database.  Cause: java.sql.SQLException: Field 'state' doesn't have a default value
+### The error may exist in com/benewake/saleordersystem/mapper/InquiryMapper.java (best guess)
+### The error may involve com.benewake.saleordersystem.mapper.InquiryMapper.insert-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO fim_inquiry_table  ( inquiry_code,    salesman_id, item_id, customer_id, sale_num, expected_time,  inquiry_type )  VALUES  ( ?,    ?, ?, ?, ?, ?,  ? )
+### Cause: java.sql.SQLException: Field 'state' doesn't have a default value
+; Field 'state' doesn't have a default value; nested exception is java.sql.SQLException: Field 'state' doesn't have a default value]
+2023-08-10 10:15:04.686 [http-nio-8080-exec-10] WARN  [,] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.springframework.dao.DataIntegrityViolationException: 
+### Error updating database.  Cause: java.sql.SQLException: Field 'created_time' doesn't have a default value
+### The error may exist in com/benewake/saleordersystem/mapper/InquiryMapper.java (best guess)
+### The error may involve com.benewake.saleordersystem.mapper.InquiryMapper.insert-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO fim_inquiry_table  ( inquiry_code, state,   salesman_id, item_id, customer_id, sale_num, expected_time,  inquiry_type )  VALUES  ( ?, ?,   ?, ?, ?, ?, ?,  ? )
+### Cause: java.sql.SQLException: Field 'created_time' doesn't have a default value
+; Field 'created_time' doesn't have a default value; nested exception is java.sql.SQLException: Field 'created_time' doesn't have a default value]
+2023-08-10 10:16:53.378 [http-nio-8080-exec-1] WARN  [,] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.springframework.dao.DataIntegrityViolationException: 
+### Error updating database.  Cause: java.sql.SQLException: Field 'created_user' doesn't have a default value
+### The error may exist in com/benewake/saleordersystem/mapper/InquiryMapper.java (best guess)
+### The error may involve com.benewake.saleordersystem.mapper.InquiryMapper.insert-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO fim_inquiry_table  ( inquiry_code, state,   salesman_id, item_id, customer_id, sale_num, expected_time,  inquiry_type )  VALUES  ( ?, ?,   ?, ?, ?, ?, ?,  ? )
+### Cause: java.sql.SQLException: Field 'created_user' doesn't have a default value
+; Field 'created_user' doesn't have a default value; nested exception is java.sql.SQLException: Field 'created_user' doesn't have a default value]
+2023-08-10 10:17:26.533 [http-nio-8080-exec-7] WARN  [,] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.springframework.dao.DataIntegrityViolationException: 
+### Error updating database.  Cause: java.sql.SQLException: Field 'created_user' doesn't have a default value
+### The error may exist in com/benewake/saleordersystem/mapper/InquiryMapper.java (best guess)
+### The error may involve com.benewake.saleordersystem.mapper.InquiryMapper.insert-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO fim_inquiry_table  ( inquiry_code, state,   salesman_id, item_id, customer_id, sale_num, expected_time,  inquiry_type )  VALUES  ( ?, ?,   ?, ?, ?, ?, ?,  ? )
+### Cause: java.sql.SQLException: Field 'created_user' doesn't have a default value
+; Field 'created_user' doesn't have a default value; nested exception is java.sql.SQLException: Field 'created_user' doesn't have a default value]
+2023-08-10 10:18:54.282 [restartedMain] WARN  [,] c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.benewake.saleordersystem.entity.InquiryCode".
+2023-08-10 10:18:54.283 [restartedMain] WARN  [,] c.b.mybatisplus.core.injector.DefaultSqlInjector - class com.benewake.saleordersystem.entity.InquiryCode ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+2023-08-10 10:18:54.302 [restartedMain] WARN  [,] c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "java.util.Map".
+2023-08-10 10:18:54.303 [restartedMain] WARN  [,] c.b.mybatisplus.core.injector.DefaultSqlInjector - interface java.util.Map ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+2023-08-10 10:18:55.515 [restartedMain] WARN  [,] c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.benewake.saleordersystem.entity.Past.PastPredictionCompany".
+2023-08-10 10:18:55.515 [restartedMain] WARN  [,] c.b.mybatisplus.core.injector.DefaultSqlInjector - class com.benewake.saleordersystem.entity.Past.PastPredictionCompany ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+2023-08-10 10:20:01.985 [restartedMain] WARN  [,] c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.benewake.saleordersystem.entity.InquiryCode".
+2023-08-10 10:20:01.985 [restartedMain] WARN  [,] c.b.mybatisplus.core.injector.DefaultSqlInjector - class com.benewake.saleordersystem.entity.InquiryCode ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+2023-08-10 10:20:02.005 [restartedMain] WARN  [,] c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "java.util.Map".
+2023-08-10 10:20:02.005 [restartedMain] WARN  [,] c.b.mybatisplus.core.injector.DefaultSqlInjector - interface java.util.Map ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+2023-08-10 10:20:03.219 [restartedMain] WARN  [,] c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.benewake.saleordersystem.entity.Past.PastPredictionCompany".
+2023-08-10 10:20:03.220 [restartedMain] WARN  [,] c.b.mybatisplus.core.injector.DefaultSqlInjector - class com.benewake.saleordersystem.entity.Past.PastPredictionCompany ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+2023-08-10 10:30:13.846 [restartedMain] WARN  [,] c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.benewake.saleordersystem.entity.InquiryCode".
+2023-08-10 10:30:13.846 [restartedMain] WARN  [,] c.b.mybatisplus.core.injector.DefaultSqlInjector - class com.benewake.saleordersystem.entity.InquiryCode ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+2023-08-10 10:30:13.866 [restartedMain] WARN  [,] c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "java.util.Map".
+2023-08-10 10:30:13.866 [restartedMain] WARN  [,] c.b.mybatisplus.core.injector.DefaultSqlInjector - interface java.util.Map ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+2023-08-10 10:30:15.082 [restartedMain] WARN  [,] c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.benewake.saleordersystem.entity.Past.PastPredictionCompany".
+2023-08-10 10:30:15.082 [restartedMain] WARN  [,] c.b.mybatisplus.core.injector.DefaultSqlInjector - class com.benewake.saleordersystem.entity.Past.PastPredictionCompany ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+2023-08-10 10:44:47.486 [http-nio-8080-exec-4] WARN  [,] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.springframework.jdbc.BadSqlGrammarException: 
+### Error querying database.  Cause: java.sql.SQLSyntaxErrorException: Unknown column 'created_time' in 'field list'
+### The error may exist in com/benewake/saleordersystem/mapper/Vo/SalesOrderVoMapper.java (best guess)
+### The error may involve com.benewake.saleordersystem.mapper.Vo.SalesOrderVoMapper.selectListByFilter-Inline
+### The error occurred while setting parameters
+### SQL: select distinct (inquiry_id),inquiry_code,inquiry_init_type,state,created_user_name,item_type,inquiry_type,item_code,item_name,customer_name,salesman_name,sale_num,expected_time,arranged_time,delay,customer_type,order_delivery_progress,delivery_code,receive_time,delivery_state,customize,remark from (select inquiry_id as inquiry_id,(case when state=-1 then '无效' when state=0 then '保存' else concat('询单',state,'次') end) as state,a.inquiry_code as inquiry_code,sale_num as sale_num,expected_time as expected_time,arranged_time as arranged_time,created_user as created_user,salesman_id as salesman_id,a.item_id as item_id,a.customer_id as customer_id,remark as remark,(case when order_delivery_progress is null then '未发货' when order_delivery_progress = 80 then '已签收' else '已发货客户未签收' end) as order_delivery_progress,delivery_code,receive_time,delivery_state,delay as delay,(case when item_type = 1 then '已有标品' when item_type = 2 then '已有定制' when item_type = 3 then '新增软件定制' when item_type = 4 then '新增原材料定制'  when item_type = 5 then '新增原材料+软件定制' else '错误物料类型' end) as item_type,item_code as item_code,item_name as item_name,(case when inquiry_type = 1 then 'PO(客户付款)' when inquiry_type = 2 then 'PR(客户提出付款意向)' when inquiry_type = 3 then 'YG(供应链预估)' when inquiry_type = 4 then 'YC(销售预测)' when inquiry_type = 5 then 'XD(意向询单)' else 'ER(错误)' end) as inquiry_type,(case when item_type = 1 or item_type = 2 then '否' when item_type = 3 or item_type = 4 or item_type = 5 then '是' else '错误' end) as customize,(case when customer_type is null then '日常' else customer_type end) as customer_type,(case when inquiry_init_type = 5 then '销售询单' when inquiry_init_type = 4 then '销售预测' when inquiry_init_type = 3 then '供应链预估' else '错误的初始类型' end) as inquiry_init_type from (select fim_inquiry_table.inquiry_id,inquiry_code as inquiry_code,state as state,inquiry_init_type as inquiry_init_type,inquiry_type as inquiry_type,sale_num as sale_num,expected_time as expected_time,arranged_time as arranged_time,created_user as created_user,salesman_id as salesman_id,item_id as item_id,customer_id as customer_id,remark as remark,(case when arranged_time > expected_time then '是' else '否' end )as delay from fim_inquiry_table left join (select SUBSTRING_INDEX(GROUP_CONCAT(inquiry_id ORDER BY created_time desc),',',1) as inquiry_id,SUBSTRING_INDEX(GROUP_CONCAT(inquiry_type ORDER BY created_time asc),',',1) as inquiry_init_type from fim_inquiry_table group by inquiry_code) as bb on bb.inquiry_id = fim_inquiry_table.inquiry_id WHERE (bb.inquiry_id IS NOT NULL AND state >= ?)) as a left join (select customer_id,item_id,customer_type from fim_customer_type_table) as d on a.customer_id = d.customer_id and d.item_id = a.item_id left join (select item_id,item_code,item_name,item_type from fim_item_table WHERE (item_code IS NOT NULL)) as e on e.item_id = a.item_id left join(select inquiry_code,delivery_state as order_delivery_progress,delivery_code as delivery_code,receive_time as receive_time,delivery_latest_state as delivery_state from delivery_table) as j on j.inquiry_code = a.inquiry_code WHERE (item_code IS NOT NULL)) as a left join (select FIM_user_id,FIM_user_name as salesman_name from fim_users_table WHERE (FIM_user_name IS NOT NULL)) as b on a.salesman_id = b.FIM_user_id left join (select FIM_user_id,FIM_user_name as created_user_name from fim_users_table WHERE (FIM_user_name IS NOT NULL)) as c on a.created_user = c.FIM_user_id left join (select customer_id,customer_name from fim_customer_table WHERE (customer_name IS NOT NULL)) as f on a.customer_id = f.customer_id WHERE (customer_name IS NOT NULL AND created_user_name IS NOT NULL AND salesman_name IS NOT NULL AND (created_user_name = ? OR salesman_name = ?)) order by inquiry_code desc
+### Cause: java.sql.SQLSyntaxErrorException: Unknown column 'created_time' in 'field list'
+; bad SQL grammar []; nested exception is java.sql.SQLSyntaxErrorException: Unknown column 'created_time' in 'field list']
+2023-08-10 11:23:06.783 [restartedMain] WARN  [,] c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.benewake.saleordersystem.entity.InquiryCode".
+2023-08-10 11:23:06.783 [restartedMain] WARN  [,] c.b.mybatisplus.core.injector.DefaultSqlInjector - class com.benewake.saleordersystem.entity.InquiryCode ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+2023-08-10 11:23:06.802 [restartedMain] WARN  [,] c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "java.util.Map".
+2023-08-10 11:23:06.802 [restartedMain] WARN  [,] c.b.mybatisplus.core.injector.DefaultSqlInjector - interface java.util.Map ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+2023-08-10 11:23:08.201 [restartedMain] WARN  [,] c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.benewake.saleordersystem.entity.Past.PastPredictionCompany".
+2023-08-10 11:23:08.201 [restartedMain] WARN  [,] c.b.mybatisplus.core.injector.DefaultSqlInjector - class com.benewake.saleordersystem.entity.Past.PastPredictionCompany ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+2023-08-10 11:23:25.999 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] WARN  [,] o.s.a.r.listener.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it. Exception summary: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+2023-08-10 11:23:39.219 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-2] WARN  [,] o.s.a.r.listener.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it. Exception summary: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+2023-08-10 11:23:52.466 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-3] WARN  [,] o.s.a.r.listener.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it. Exception summary: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+2023-08-10 11:24:05.771 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-4] WARN  [,] o.s.a.r.listener.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it. Exception summary: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+2023-08-10 11:24:19.086 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-5] WARN  [,] o.s.a.r.listener.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it. Exception summary: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+2023-08-10 11:24:32.371 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-6] WARN  [,] o.s.a.r.listener.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it. Exception summary: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+2023-08-10 11:24:45.651 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-7] WARN  [,] o.s.a.r.listener.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it. Exception summary: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+2023-08-10 11:24:58.910 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-8] WARN  [,] o.s.a.r.listener.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it. Exception summary: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+2023-08-10 11:25:12.169 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-9] WARN  [,] o.s.a.r.listener.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it. Exception summary: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+2023-08-10 11:25:25.523 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-10] WARN  [,] o.s.a.r.listener.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it. Exception summary: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+2023-08-10 11:25:38.830 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-11] WARN  [,] o.s.a.r.listener.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it. Exception summary: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+2023-08-10 11:25:52.162 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-12] WARN  [,] o.s.a.r.listener.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it. Exception summary: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+2023-08-10 11:26:12.937 [restartedMain] WARN  [,] c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.benewake.saleordersystem.entity.InquiryCode".
+2023-08-10 11:26:12.937 [restartedMain] WARN  [,] c.b.mybatisplus.core.injector.DefaultSqlInjector - class com.benewake.saleordersystem.entity.InquiryCode ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+2023-08-10 11:26:12.956 [restartedMain] WARN  [,] c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "java.util.Map".
+2023-08-10 11:26:12.957 [restartedMain] WARN  [,] c.b.mybatisplus.core.injector.DefaultSqlInjector - interface java.util.Map ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+2023-08-10 11:26:14.121 [restartedMain] WARN  [,] c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.benewake.saleordersystem.entity.Past.PastPredictionCompany".
+2023-08-10 11:26:14.122 [restartedMain] WARN  [,] c.b.mybatisplus.core.injector.DefaultSqlInjector - class com.benewake.saleordersystem.entity.Past.PastPredictionCompany ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+2023-08-10 11:26:21.632 [restartedMain] WARN  [,] c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.benewake.saleordersystem.entity.InquiryCode".
+2023-08-10 11:26:21.632 [restartedMain] WARN  [,] c.b.mybatisplus.core.injector.DefaultSqlInjector - class com.benewake.saleordersystem.entity.InquiryCode ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+2023-08-10 11:26:21.651 [restartedMain] WARN  [,] c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "java.util.Map".
+2023-08-10 11:26:21.651 [restartedMain] WARN  [,] c.b.mybatisplus.core.injector.DefaultSqlInjector - interface java.util.Map ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+2023-08-10 11:26:22.813 [restartedMain] WARN  [,] c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.benewake.saleordersystem.entity.Past.PastPredictionCompany".
+2023-08-10 11:26:22.813 [restartedMain] WARN  [,] c.b.mybatisplus.core.injector.DefaultSqlInjector - class com.benewake.saleordersystem.entity.Past.PastPredictionCompany ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+2023-08-10 11:36:04.941 [restartedMain] WARN  [,] c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.benewake.saleordersystem.entity.InquiryCode".
+2023-08-10 11:36:04.941 [restartedMain] WARN  [,] c.b.mybatisplus.core.injector.DefaultSqlInjector - class com.benewake.saleordersystem.entity.InquiryCode ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+2023-08-10 11:36:04.960 [restartedMain] WARN  [,] c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "java.util.Map".
+2023-08-10 11:36:04.960 [restartedMain] WARN  [,] c.b.mybatisplus.core.injector.DefaultSqlInjector - interface java.util.Map ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+2023-08-10 11:36:06.127 [restartedMain] WARN  [,] c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.benewake.saleordersystem.entity.Past.PastPredictionCompany".
+2023-08-10 11:36:06.127 [restartedMain] WARN  [,] c.b.mybatisplus.core.injector.DefaultSqlInjector - class com.benewake.saleordersystem.entity.Past.PastPredictionCompany ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+2023-08-10 13:43:27.271 [restartedMain] WARN  [,] c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.benewake.saleordersystem.entity.InquiryCode".
+2023-08-10 13:43:27.271 [restartedMain] WARN  [,] c.b.mybatisplus.core.injector.DefaultSqlInjector - class com.benewake.saleordersystem.entity.InquiryCode ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+2023-08-10 13:43:27.295 [restartedMain] WARN  [,] c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "java.util.Map".
+2023-08-10 13:43:27.295 [restartedMain] WARN  [,] c.b.mybatisplus.core.injector.DefaultSqlInjector - interface java.util.Map ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+2023-08-10 13:43:28.793 [restartedMain] WARN  [,] c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.benewake.saleordersystem.entity.Past.PastPredictionCompany".
+2023-08-10 13:43:28.793 [restartedMain] WARN  [,] c.b.mybatisplus.core.injector.DefaultSqlInjector - class com.benewake.saleordersystem.entity.Past.PastPredictionCompany ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+2023-08-10 13:44:18.572 [http-nio-8080-exec-3] WARN  [,] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.springframework.dao.DataIntegrityViolationException: 
+### Error updating database.  Cause: java.sql.SQLIntegrityConstraintViolationException: Column 'created_time' cannot be null
+### The error may exist in com/benewake/saleordersystem/mapper/InquiryMapper.java (best guess)
+### The error may involve com.benewake.saleordersystem.mapper.InquiryMapper.insertInquiries-Inline
+### The error occurred while setting parameters
+### SQL: Insert into fim_inquiry_table(inquiry_code,state,created_time,created_user,salesman_id,item_id,customer_id,sale_num,expected_time,arranged_time,inquiry_type,remark) values    (?,?,?,?,?,?,?,?,?,?,?,? )
+### Cause: java.sql.SQLIntegrityConstraintViolationException: Column 'created_time' cannot be null
+; Column 'created_time' cannot be null; nested exception is java.sql.SQLIntegrityConstraintViolationException: Column 'created_time' cannot be null]
+2023-08-10 13:45:13.593 [http-nio-8080-exec-2] WARN  [,] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.springframework.dao.DataIntegrityViolationException: 
+### Error updating database.  Cause: java.sql.SQLIntegrityConstraintViolationException: Column 'created_time' cannot be null
+### The error may exist in com/benewake/saleordersystem/mapper/InquiryMapper.java (best guess)
+### The error may involve com.benewake.saleordersystem.mapper.InquiryMapper.insertInquiries-Inline
+### The error occurred while setting parameters
+### SQL: Insert into fim_inquiry_table(inquiry_code,state,created_time,created_user,salesman_id,item_id,customer_id,sale_num,expected_time,arranged_time,inquiry_type,remark) values    (?,?,?,?,?,?,?,?,?,?,?,? )
+### Cause: java.sql.SQLIntegrityConstraintViolationException: Column 'created_time' cannot be null
+; Column 'created_time' cannot be null; nested exception is java.sql.SQLIntegrityConstraintViolationException: Column 'created_time' cannot be null]
+2023-08-10 13:49:00.422 [http-nio-8080-exec-6] WARN  [,] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.springframework.dao.DataIntegrityViolationException: 
+### Error updating database.  Cause: java.sql.SQLIntegrityConstraintViolationException: Column 'created_time' cannot be null
+### The error may exist in com/benewake/saleordersystem/mapper/InquiryMapper.java (best guess)
+### The error may involve com.benewake.saleordersystem.mapper.InquiryMapper.insertInquiries-Inline
+### The error occurred while setting parameters
+### SQL: Insert into fim_inquiry_table(inquiry_code,state,created_time,created_user,salesman_id,item_id,customer_id,sale_num,expected_time,arranged_time,inquiry_type,remark) values    (?,?,?,?,?,?,?,?,?,?,?,? )
+### Cause: java.sql.SQLIntegrityConstraintViolationException: Column 'created_time' cannot be null
+; Column 'created_time' cannot be null; nested exception is java.sql.SQLIntegrityConstraintViolationException: Column 'created_time' cannot be null]
+2023-08-10 13:50:54.565 [restartedMain] WARN  [,] c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.benewake.saleordersystem.entity.InquiryCode".
+2023-08-10 13:50:54.565 [restartedMain] WARN  [,] c.b.mybatisplus.core.injector.DefaultSqlInjector - class com.benewake.saleordersystem.entity.InquiryCode ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+2023-08-10 13:50:54.584 [restartedMain] WARN  [,] c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "java.util.Map".
+2023-08-10 13:50:54.584 [restartedMain] WARN  [,] c.b.mybatisplus.core.injector.DefaultSqlInjector - interface java.util.Map ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+2023-08-10 13:50:55.776 [restartedMain] WARN  [,] c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.benewake.saleordersystem.entity.Past.PastPredictionCompany".
+2023-08-10 13:50:55.776 [restartedMain] WARN  [,] c.b.mybatisplus.core.injector.DefaultSqlInjector - class com.benewake.saleordersystem.entity.Past.PastPredictionCompany ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+2023-08-10 14:01:35.746 [restartedMain] WARN  [,] c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.benewake.saleordersystem.entity.InquiryCode".
+2023-08-10 14:01:35.746 [restartedMain] WARN  [,] c.b.mybatisplus.core.injector.DefaultSqlInjector - class com.benewake.saleordersystem.entity.InquiryCode ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+2023-08-10 14:01:35.765 [restartedMain] WARN  [,] c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "java.util.Map".
+2023-08-10 14:01:35.765 [restartedMain] WARN  [,] c.b.mybatisplus.core.injector.DefaultSqlInjector - interface java.util.Map ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+2023-08-10 14:01:36.931 [restartedMain] WARN  [,] c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.benewake.saleordersystem.entity.Past.PastPredictionCompany".
+2023-08-10 14:01:36.931 [restartedMain] WARN  [,] c.b.mybatisplus.core.injector.DefaultSqlInjector - class com.benewake.saleordersystem.entity.Past.PastPredictionCompany ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+2023-08-10 14:05:09.959 [http-nio-8080-exec-9] WARN  [,] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.springframework.dao.DataIntegrityViolationException: 
+### Error updating database.  Cause: java.sql.SQLException: Field 'inquiry_code' doesn't have a default value
+### The error may exist in com/benewake/saleordersystem/mapper/InquiryMapper.java (best guess)
+### The error may involve com.benewake.saleordersystem.mapper.InquiryMapper.insert-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO fim_inquiry_table  ( state,  created_user, salesman_id, item_id, customer_id, sale_num, expected_time,  inquiry_type, remark )  VALUES  ( ?,  ?, ?, ?, ?, ?, ?,  ?, ? )
+### Cause: java.sql.SQLException: Field 'inquiry_code' doesn't have a default value
+; Field 'inquiry_code' doesn't have a default value; nested exception is java.sql.SQLException: Field 'inquiry_code' doesn't have a default value]

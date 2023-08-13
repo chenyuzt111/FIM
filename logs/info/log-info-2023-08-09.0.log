@@ -1,0 +1,591 @@
+2023-08-10 09:02:51.884 [restartedMain] INFO  [,] c.b.saleordersystem.SaleOrderSystemApplication - Starting SaleOrderSystemApplication on ATHQ-20221218UI with PID 7772 (F:\study\javaProject\SaleOrderSystem\target\classes started by Lcs in F:\study\javaProject\SaleOrderSystem)
+2023-08-10 09:02:51.888 [restartedMain] INFO  [,] c.b.saleordersystem.SaleOrderSystemApplication - No active profile set, falling back to default profiles: default
+2023-08-10 09:02:51.940 [restartedMain] INFO  [,] o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-08-10 09:02:51.940 [restartedMain] INFO  [,] o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-08-10 09:02:53.721 [restartedMain] INFO  [,] o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2023-08-10 09:02:53.730 [restartedMain] INFO  [,] org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2023-08-10 09:02:53.731 [restartedMain] INFO  [,] org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2023-08-10 09:02:53.731 [restartedMain] INFO  [,] org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.41]
+2023-08-10 09:02:53.810 [restartedMain] INFO  [,] o.a.c.c.C.[Tomcat].[localhost].[/benewake] - Initializing Spring embedded WebApplicationContext
+2023-08-10 09:02:53.810 [restartedMain] INFO  [,] o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1869 ms
+2023-08-10 09:02:56.333 [restartedMain] INFO  [,] o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService
+2023-08-10 09:02:56.334 [restartedMain] INFO  [,] o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'asynExecutor'
+2023-08-10 09:02:56.471 [restartedMain] INFO  [,] o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2023-08-10 09:02:57.099 [restartedMain] INFO  [,] org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2023-08-10 09:02:57.120 [restartedMain] INFO  [,] o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '/benewake'
+2023-08-10 09:02:57.464 [restartedMain] INFO  [,] o.s.a.rabbit.connection.CachingConnectionFactory - Attempting to connect to: [47.93.30.99:5672]
+2023-08-10 09:02:57.578 [restartedMain] INFO  [,] o.s.a.rabbit.connection.CachingConnectionFactory - Created new connection: rabbitConnectionFactory#1b669d36:0/SimpleConnection@68b38080 [delegate=amqp://guest@47.93.30.99:5672/, localPort= 50420]
+2023-08-10 09:02:57.754 [restartedMain] INFO  [,] c.b.saleordersystem.SaleOrderSystemApplication - Started SaleOrderSystemApplication in 6.379 seconds (JVM running for 7.321)
+2023-08-10 09:06:10.401 [SpringContextShutdownHook] INFO  [,] o.s.a.r.listener.SimpleMessageListenerContainer - Waiting for workers to finish.
+2023-08-10 09:06:10.786 [SpringContextShutdownHook] INFO  [,] o.s.a.r.listener.SimpleMessageListenerContainer - Successfully waited for workers to finish.
+2023-08-10 09:06:11.383 [SpringContextShutdownHook] INFO  [,] o.s.a.r.listener.SimpleMessageListenerContainer - Shutdown ignored - container is not active already
+2023-08-10 09:06:11.386 [SpringContextShutdownHook] INFO  [,] o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'asynExecutor'
+2023-08-10 09:06:20.087 [restartedMain] INFO  [,] c.b.saleordersystem.SaleOrderSystemApplication - Starting SaleOrderSystemApplication on ATHQ-20221218UI with PID 936 (F:\study\javaProject\SaleOrderSystem\target\classes started by Lcs in F:\study\javaProject\SaleOrderSystem)
+2023-08-10 09:06:20.089 [restartedMain] INFO  [,] c.b.saleordersystem.SaleOrderSystemApplication - No active profile set, falling back to default profiles: default
+2023-08-10 09:06:20.135 [restartedMain] INFO  [,] o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-08-10 09:06:20.135 [restartedMain] INFO  [,] o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-08-10 09:06:21.834 [restartedMain] INFO  [,] o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2023-08-10 09:06:21.846 [restartedMain] INFO  [,] org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2023-08-10 09:06:21.846 [restartedMain] INFO  [,] org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2023-08-10 09:06:21.847 [restartedMain] INFO  [,] org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.41]
+2023-08-10 09:06:21.965 [restartedMain] INFO  [,] o.a.c.c.C.[Tomcat].[localhost].[/benewake] - Initializing Spring embedded WebApplicationContext
+2023-08-10 09:06:21.965 [restartedMain] INFO  [,] o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1829 ms
+2023-08-10 09:06:24.923 [restartedMain] INFO  [,] o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService
+2023-08-10 09:06:24.925 [restartedMain] INFO  [,] o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'asynExecutor'
+2023-08-10 09:06:25.080 [restartedMain] INFO  [,] o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2023-08-10 09:06:25.826 [restartedMain] INFO  [,] org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2023-08-10 09:06:25.845 [restartedMain] INFO  [,] o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '/benewake'
+2023-08-10 09:06:26.198 [restartedMain] INFO  [,] o.s.a.rabbit.connection.CachingConnectionFactory - Attempting to connect to: [47.93.30.99:5672]
+2023-08-10 09:06:26.334 [restartedMain] INFO  [,] o.s.a.rabbit.connection.CachingConnectionFactory - Created new connection: rabbitConnectionFactory#4f7930f9:0/SimpleConnection@67e15a0c [delegate=amqp://guest@47.93.30.99:5672/, localPort= 50954]
+2023-08-10 09:06:26.533 [restartedMain] INFO  [,] c.b.saleordersystem.SaleOrderSystemApplication - Started SaleOrderSystemApplication in 6.854 seconds (JVM running for 7.753)
+2023-08-10 09:06:58.165 [http-nio-8080-exec-1] INFO  [,] o.a.c.c.C.[Tomcat].[localhost].[/benewake] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-08-10 09:06:58.166 [http-nio-8080-exec-1] INFO  [,] org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2023-08-10 09:06:58.177 [http-nio-8080-exec-1] INFO  [,] org.springframework.web.servlet.DispatcherServlet - Completed initialization in 11 ms
+2023-08-10 09:06:58.270 [http-nio-8080-exec-1] INFO  [,] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2023-08-10 09:06:58.451 [http-nio-8080-exec-1] INFO  [,] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2023-08-10 09:06:58.605 [http-nio-8080-exec-1] INFO  [,] com.benewake.saleordersystem.aspect.LogAspect - 用户[0:0:0:0:0:0:0:1],在[2023-08-10 09:08:58],访问了[com.benewake.saleordersystem.controller.SaleOrderController]的[addInquiries]方法，参数为[[StartInquiryVo(inquiryList=[Inquiry(inquiryId=null, inquiryCode=null, state=null, createdTime=null, createdUser=null, salesmanId=3, itemId=3, customerId=3, saleNum=50, expectedTime=Thu Aug 10 00:00:00 GMT+08:00 2023, arrangedTime=null, inquiryType=4, remark=null), Inquiry(inquiryId=null, inquiryCode=null, state=null, createdTime=null, createdUser=null, salesmanId=3, itemId=3, customerId=3, saleNum=50, expectedTime=Thu Aug 10 00:00:00 GMT+08:00 2023, arrangedTime=null, inquiryType=4, remark=null)], startInquiry=0)]].
+2023-08-10 09:07:07.552 [http-nio-8080-exec-2] INFO  [,] com.benewake.saleordersystem.aspect.LogAspect - 用户[0:0:0:0:0:0:0:1],在[2023-08-10 09:08:07],访问了[com.benewake.saleordersystem.controller.SaleOrderController]的[addInquiries]方法，参数为[[StartInquiryVo(inquiryList=[Inquiry(inquiryId=null, inquiryCode=null, state=null, createdTime=null, createdUser=null, salesmanId=3, itemId=3, customerId=3, saleNum=50, expectedTime=Fri Aug 11 00:00:00 GMT+08:00 2023, arrangedTime=null, inquiryType=4, remark=null), Inquiry(inquiryId=null, inquiryCode=null, state=null, createdTime=null, createdUser=null, salesmanId=3, itemId=3, customerId=3, saleNum=50, expectedTime=Fri Aug 11 00:00:00 GMT+08:00 2023, arrangedTime=null, inquiryType=4, remark=null)], startInquiry=0)]].
+2023-08-10 09:07:26.045 [http-nio-8080-exec-9] INFO  [,] com.benewake.saleordersystem.aspect.LogAspect - 用户[0:0:0:0:0:0:0:1],在[2023-08-10 09:08:26],访问了[com.benewake.saleordersystem.controller.SaleOrderController]的[addInquiries]方法，参数为[[StartInquiryVo(inquiryList=[Inquiry(inquiryId=null, inquiryCode=null, state=null, createdTime=null, createdUser=null, salesmanId=3, itemId=3, customerId=3, saleNum=50, expectedTime=Fri Aug 11 00:00:00 GMT+08:00 2023, arrangedTime=null, inquiryType=5, remark=null), Inquiry(inquiryId=null, inquiryCode=null, state=null, createdTime=null, createdUser=null, salesmanId=3, itemId=3, customerId=3, saleNum=50, expectedTime=Fri Aug 11 00:00:00 GMT+08:00 2023, arrangedTime=null, inquiryType=4, remark=null)], startInquiry=0)]].
+2023-08-10 09:08:56.849 [SpringContextShutdownHook] INFO  [,] o.s.a.r.listener.SimpleMessageListenerContainer - Waiting for workers to finish.
+2023-08-10 09:08:56.857 [SpringContextShutdownHook] INFO  [,] o.s.a.r.listener.SimpleMessageListenerContainer - Successfully waited for workers to finish.
+2023-08-10 09:08:57.373 [SpringContextShutdownHook] INFO  [,] o.s.a.r.listener.SimpleMessageListenerContainer - Shutdown ignored - container is not active already
+2023-08-10 09:08:57.375 [SpringContextShutdownHook] INFO  [,] o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'asynExecutor'
+2023-08-10 09:08:57.383 [SpringContextShutdownHook] INFO  [,] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2023-08-10 09:08:57.390 [SpringContextShutdownHook] INFO  [,] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2023-08-10 09:09:06.120 [restartedMain] INFO  [,] c.b.saleordersystem.SaleOrderSystemApplication - Starting SaleOrderSystemApplication on ATHQ-20221218UI with PID 592 (F:\study\javaProject\SaleOrderSystem\target\classes started by Lcs in F:\study\javaProject\SaleOrderSystem)
+2023-08-10 09:09:06.122 [restartedMain] INFO  [,] c.b.saleordersystem.SaleOrderSystemApplication - No active profile set, falling back to default profiles: default
+2023-08-10 09:09:06.166 [restartedMain] INFO  [,] o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-08-10 09:09:06.166 [restartedMain] INFO  [,] o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-08-10 09:09:07.721 [restartedMain] INFO  [,] o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2023-08-10 09:09:07.729 [restartedMain] INFO  [,] org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2023-08-10 09:09:07.730 [restartedMain] INFO  [,] org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2023-08-10 09:09:07.730 [restartedMain] INFO  [,] org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.41]
+2023-08-10 09:09:07.804 [restartedMain] INFO  [,] o.a.c.c.C.[Tomcat].[localhost].[/benewake] - Initializing Spring embedded WebApplicationContext
+2023-08-10 09:09:07.805 [restartedMain] INFO  [,] o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1638 ms
+2023-08-10 09:09:10.223 [restartedMain] INFO  [,] o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService
+2023-08-10 09:09:10.224 [restartedMain] INFO  [,] o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'asynExecutor'
+2023-08-10 09:09:10.356 [restartedMain] INFO  [,] o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2023-08-10 09:09:10.990 [restartedMain] INFO  [,] org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2023-08-10 09:09:11.008 [restartedMain] INFO  [,] o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '/benewake'
+2023-08-10 09:09:11.325 [restartedMain] INFO  [,] o.s.a.rabbit.connection.CachingConnectionFactory - Attempting to connect to: [47.93.30.99:5672]
+2023-08-10 09:09:11.390 [restartedMain] INFO  [,] o.s.a.rabbit.connection.CachingConnectionFactory - Created new connection: rabbitConnectionFactory#68443938:0/SimpleConnection@33d08397 [delegate=amqp://guest@47.93.30.99:5672/, localPort= 51275]
+2023-08-10 09:09:11.612 [restartedMain] INFO  [,] c.b.saleordersystem.SaleOrderSystemApplication - Started SaleOrderSystemApplication in 5.895 seconds (JVM running for 6.746)
+2023-08-10 09:09:17.175 [http-nio-8080-exec-6] INFO  [,] o.a.c.c.C.[Tomcat].[localhost].[/benewake] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-08-10 09:09:17.176 [http-nio-8080-exec-6] INFO  [,] org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2023-08-10 09:09:17.186 [http-nio-8080-exec-6] INFO  [,] org.springframework.web.servlet.DispatcherServlet - Completed initialization in 10 ms
+2023-08-10 09:09:17.265 [http-nio-8080-exec-6] INFO  [,] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2023-08-10 09:09:17.407 [http-nio-8080-exec-6] INFO  [,] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2023-08-10 09:09:17.528 [http-nio-8080-exec-6] INFO  [,] com.benewake.saleordersystem.aspect.LogAspect - 用户[0:0:0:0:0:0:0:1],在[2023-08-10 09:08:17],访问了[com.benewake.saleordersystem.controller.SaleOrderController]的[addInquiries]方法，参数为[[StartInquiryVo(inquiryList=[Inquiry(inquiryId=null, inquiryCode=null, state=null, createdTime=null, createdUser=null, salesmanId=3, itemId=3, customerId=3, saleNum=50, expectedTime=Fri Aug 11 00:00:00 GMT+08:00 2023, arrangedTime=null, inquiryType=5, remark=null), Inquiry(inquiryId=null, inquiryCode=null, state=null, createdTime=null, createdUser=null, salesmanId=3, itemId=3, customerId=3, saleNum=50, expectedTime=Fri Aug 11 00:00:00 GMT+08:00 2023, arrangedTime=null, inquiryType=4, remark=null)], startInquiry=0)]].
+2023-08-10 09:10:21.011 [http-nio-8080-exec-5] INFO  [,] com.benewake.saleordersystem.aspect.LogAspect - 用户[0:0:0:0:0:0:0:1],在[2023-08-10 09:08:21],访问了[com.benewake.saleordersystem.controller.SaleOrderController]的[addInquiries]方法，参数为[[StartInquiryVo(inquiryList=[Inquiry(inquiryId=320, inquiryCode=null, state=null, createdTime=null, createdUser=null, salesmanId=null, itemId=null, customerId=null, saleNum=null, expectedTime=null, arrangedTime=null, inquiryType=null, remark=null), Inquiry(inquiryId=321, inquiryCode=null, state=null, createdTime=null, createdUser=null, salesmanId=null, itemId=null, customerId=null, saleNum=null, expectedTime=null, arrangedTime=null, inquiryType=null, remark=null)], startInquiry=0)]].
+2023-08-10 09:10:25.935 [http-nio-8080-exec-7] INFO  [,] com.benewake.saleordersystem.aspect.LogAspect - 用户[0:0:0:0:0:0:0:1],在[2023-08-10 09:08:25],访问了[com.benewake.saleordersystem.controller.SaleOrderController]的[addInquiries]方法，参数为[[StartInquiryVo(inquiryList=[Inquiry(inquiryId=320, inquiryCode=null, state=null, createdTime=null, createdUser=null, salesmanId=null, itemId=null, customerId=null, saleNum=null, expectedTime=null, arrangedTime=null, inquiryType=null, remark=null), Inquiry(inquiryId=321, inquiryCode=null, state=null, createdTime=null, createdUser=null, salesmanId=null, itemId=null, customerId=null, saleNum=null, expectedTime=null, arrangedTime=null, inquiryType=null, remark=null)], startInquiry=1)]].
+2023-08-10 09:10:42.085 [http-nio-8080-exec-2] INFO  [,] com.benewake.saleordersystem.aspect.LogAspect - 用户[0:0:0:0:0:0:0:1],在[2023-08-10 09:08:42],访问了[com.benewake.saleordersystem.controller.SaleOrderController]的[addInquiries]方法，参数为[[StartInquiryVo(inquiryList=[Inquiry(inquiryId=320, inquiryCode=null, state=null, createdTime=null, createdUser=null, salesmanId=null, itemId=null, customerId=null, saleNum=null, expectedTime=null, arrangedTime=null, inquiryType=null, remark=null), Inquiry(inquiryId=321, inquiryCode=null, state=null, createdTime=null, createdUser=null, salesmanId=null, itemId=null, customerId=null, saleNum=null, expectedTime=null, arrangedTime=null, inquiryType=null, remark=null)], startInquiry=1)]].
+2023-08-10 09:19:03.768 [SpringContextShutdownHook] INFO  [,] o.s.a.r.listener.SimpleMessageListenerContainer - Waiting for workers to finish.
+2023-08-10 09:19:04.124 [SpringContextShutdownHook] INFO  [,] o.s.a.r.listener.SimpleMessageListenerContainer - Successfully waited for workers to finish.
+2023-08-10 09:19:04.534 [SpringContextShutdownHook] INFO  [,] o.s.a.r.listener.SimpleMessageListenerContainer - Shutdown ignored - container is not active already
+2023-08-10 09:19:04.535 [SpringContextShutdownHook] INFO  [,] o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'asynExecutor'
+2023-08-10 09:19:04.542 [SpringContextShutdownHook] INFO  [,] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2023-08-10 09:19:04.548 [SpringContextShutdownHook] INFO  [,] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2023-08-10 09:19:12.596 [restartedMain] INFO  [,] c.b.saleordersystem.SaleOrderSystemApplication - Starting SaleOrderSystemApplication on ATHQ-20221218UI with PID 11384 (F:\study\javaProject\SaleOrderSystem\target\classes started by Lcs in F:\study\javaProject\SaleOrderSystem)
+2023-08-10 09:19:12.598 [restartedMain] INFO  [,] c.b.saleordersystem.SaleOrderSystemApplication - No active profile set, falling back to default profiles: default
+2023-08-10 09:19:12.643 [restartedMain] INFO  [,] o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-08-10 09:19:12.643 [restartedMain] INFO  [,] o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-08-10 09:19:14.196 [restartedMain] INFO  [,] o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2023-08-10 09:19:14.205 [restartedMain] INFO  [,] org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2023-08-10 09:19:14.206 [restartedMain] INFO  [,] org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2023-08-10 09:19:14.206 [restartedMain] INFO  [,] org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.41]
+2023-08-10 09:19:14.280 [restartedMain] INFO  [,] o.a.c.c.C.[Tomcat].[localhost].[/benewake] - Initializing Spring embedded WebApplicationContext
+2023-08-10 09:19:14.280 [restartedMain] INFO  [,] o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1637 ms
+2023-08-10 09:19:16.651 [restartedMain] INFO  [,] o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService
+2023-08-10 09:19:16.652 [restartedMain] INFO  [,] o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'asynExecutor'
+2023-08-10 09:19:16.785 [restartedMain] INFO  [,] o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2023-08-10 09:19:17.429 [restartedMain] INFO  [,] org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2023-08-10 09:19:17.447 [restartedMain] INFO  [,] o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '/benewake'
+2023-08-10 09:19:17.753 [restartedMain] INFO  [,] o.s.a.rabbit.connection.CachingConnectionFactory - Attempting to connect to: [47.93.30.99:5672]
+2023-08-10 09:19:17.827 [restartedMain] INFO  [,] o.s.a.rabbit.connection.CachingConnectionFactory - Created new connection: rabbitConnectionFactory#68443938:0/SimpleConnection@7f8de1b5 [delegate=amqp://guest@47.93.30.99:5672/, localPort= 52272]
+2023-08-10 09:19:17.973 [restartedMain] INFO  [,] c.b.saleordersystem.SaleOrderSystemApplication - Started SaleOrderSystemApplication in 5.788 seconds (JVM running for 6.727)
+2023-08-10 09:19:28.765 [http-nio-8080-exec-1] INFO  [,] o.a.c.c.C.[Tomcat].[localhost].[/benewake] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-08-10 09:19:28.765 [http-nio-8080-exec-1] INFO  [,] org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2023-08-10 09:19:28.774 [http-nio-8080-exec-1] INFO  [,] org.springframework.web.servlet.DispatcherServlet - Completed initialization in 9 ms
+2023-08-10 09:19:28.853 [http-nio-8080-exec-1] INFO  [,] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2023-08-10 09:19:28.999 [http-nio-8080-exec-1] INFO  [,] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2023-08-10 09:19:29.125 [http-nio-8080-exec-1] INFO  [,] com.benewake.saleordersystem.aspect.LogAspect - 用户[0:0:0:0:0:0:0:1],在[2023-08-10 09:08:29],访问了[com.benewake.saleordersystem.controller.SaleOrderController]的[addInquiries]方法，参数为[[StartInquiryVo(inquiryList=[Inquiry(inquiryId=320, inquiryCode=null, state=null, createdTime=null, createdUser=null, salesmanId=null, itemId=null, customerId=null, saleNum=null, expectedTime=null, arrangedTime=null, inquiryType=null, remark=null), Inquiry(inquiryId=321, inquiryCode=null, state=null, createdTime=null, createdUser=null, salesmanId=null, itemId=null, customerId=null, saleNum=null, expectedTime=null, arrangedTime=null, inquiryType=null, remark=null)], startInquiry=1)]].
+2023-08-10 09:19:39.597 [SpringContextShutdownHook] INFO  [,] o.s.a.r.listener.SimpleMessageListenerContainer - Waiting for workers to finish.
+2023-08-10 09:19:40.173 [SpringContextShutdownHook] INFO  [,] o.s.a.r.listener.SimpleMessageListenerContainer - Successfully waited for workers to finish.
+2023-08-10 09:19:40.894 [SpringContextShutdownHook] INFO  [,] o.s.a.r.listener.SimpleMessageListenerContainer - Shutdown ignored - container is not active already
+2023-08-10 09:19:40.895 [SpringContextShutdownHook] INFO  [,] o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'asynExecutor'
+2023-08-10 09:19:40.908 [SpringContextShutdownHook] INFO  [,] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2023-08-10 09:19:40.921 [SpringContextShutdownHook] INFO  [,] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2023-08-10 09:19:49.098 [restartedMain] INFO  [,] c.b.saleordersystem.SaleOrderSystemApplication - Starting SaleOrderSystemApplication on ATHQ-20221218UI with PID 4512 (F:\study\javaProject\SaleOrderSystem\target\classes started by Lcs in F:\study\javaProject\SaleOrderSystem)
+2023-08-10 09:19:49.101 [restartedMain] INFO  [,] c.b.saleordersystem.SaleOrderSystemApplication - No active profile set, falling back to default profiles: default
+2023-08-10 09:19:49.146 [restartedMain] INFO  [,] o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-08-10 09:19:49.146 [restartedMain] INFO  [,] o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-08-10 09:19:50.659 [restartedMain] INFO  [,] o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2023-08-10 09:19:50.668 [restartedMain] INFO  [,] org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2023-08-10 09:19:50.668 [restartedMain] INFO  [,] org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2023-08-10 09:19:50.668 [restartedMain] INFO  [,] org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.41]
+2023-08-10 09:19:50.740 [restartedMain] INFO  [,] o.a.c.c.C.[Tomcat].[localhost].[/benewake] - Initializing Spring embedded WebApplicationContext
+2023-08-10 09:19:50.740 [restartedMain] INFO  [,] o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1594 ms
+2023-08-10 09:19:53.113 [restartedMain] INFO  [,] o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService
+2023-08-10 09:19:53.114 [restartedMain] INFO  [,] o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'asynExecutor'
+2023-08-10 09:19:53.247 [restartedMain] INFO  [,] o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2023-08-10 09:19:53.900 [restartedMain] INFO  [,] org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2023-08-10 09:19:53.918 [restartedMain] INFO  [,] o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '/benewake'
+2023-08-10 09:19:54.224 [restartedMain] INFO  [,] o.s.a.rabbit.connection.CachingConnectionFactory - Attempting to connect to: [47.93.30.99:5672]
+2023-08-10 09:19:54.443 [restartedMain] INFO  [,] o.s.a.rabbit.connection.CachingConnectionFactory - Created new connection: rabbitConnectionFactory#68443938:0/SimpleConnection@5e0462ba [delegate=amqp://guest@47.93.30.99:5672/, localPort= 52343]
+2023-08-10 09:19:54.713 [restartedMain] INFO  [,] c.b.saleordersystem.SaleOrderSystemApplication - Started SaleOrderSystemApplication in 6.017 seconds (JVM running for 6.872)
+2023-08-10 09:19:59.230 [http-nio-8080-exec-2] INFO  [,] o.a.c.c.C.[Tomcat].[localhost].[/benewake] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-08-10 09:19:59.231 [http-nio-8080-exec-2] INFO  [,] org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2023-08-10 09:19:59.241 [http-nio-8080-exec-2] INFO  [,] org.springframework.web.servlet.DispatcherServlet - Completed initialization in 9 ms
+2023-08-10 09:19:59.316 [http-nio-8080-exec-2] INFO  [,] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2023-08-10 09:19:59.459 [http-nio-8080-exec-2] INFO  [,] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2023-08-10 09:19:59.578 [http-nio-8080-exec-2] INFO  [,] com.benewake.saleordersystem.aspect.LogAspect - 用户[0:0:0:0:0:0:0:1],在[2023-08-10 09:08:59],访问了[com.benewake.saleordersystem.controller.SaleOrderController]的[addInquiries]方法，参数为[[StartInquiryVo(inquiryList=[Inquiry(inquiryId=320, inquiryCode=null, state=null, createdTime=null, createdUser=null, salesmanId=null, itemId=null, customerId=null, saleNum=null, expectedTime=null, arrangedTime=null, inquiryType=null, remark=null), Inquiry(inquiryId=321, inquiryCode=null, state=null, createdTime=null, createdUser=null, salesmanId=null, itemId=null, customerId=null, saleNum=null, expectedTime=null, arrangedTime=null, inquiryType=null, remark=null)], startInquiry=1)]].
+2023-08-10 09:20:18.186 [http-nio-8080-exec-4] INFO  [,] com.benewake.saleordersystem.aspect.LogAspect - 用户[0:0:0:0:0:0:0:1],在[2023-08-10 09:08:18],访问了[com.benewake.saleordersystem.controller.SaleOrderController]的[addInquiries]方法，参数为[[StartInquiryVo(inquiryList=[Inquiry(inquiryId=320, inquiryCode=null, state=null, createdTime=null, createdUser=null, salesmanId=null, itemId=null, customerId=null, saleNum=null, expectedTime=null, arrangedTime=null, inquiryType=null, remark=null), Inquiry(inquiryId=321, inquiryCode=null, state=null, createdTime=null, createdUser=null, salesmanId=null, itemId=null, customerId=null, saleNum=null, expectedTime=null, arrangedTime=null, inquiryType=null, remark=null)], startInquiry=1)]].
+2023-08-10 09:24:22.018 [Thread-13] INFO  [,] o.s.a.r.listener.SimpleMessageListenerContainer - Waiting for workers to finish.
+2023-08-10 09:24:22.033 [Thread-13] INFO  [,] o.s.a.r.listener.SimpleMessageListenerContainer - Successfully waited for workers to finish.
+2023-08-10 09:24:22.343 [Thread-13] INFO  [,] o.s.a.r.listener.SimpleMessageListenerContainer - Shutdown ignored - container is not active already
+2023-08-10 09:24:22.345 [Thread-13] INFO  [,] o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'asynExecutor'
+2023-08-10 09:24:22.349 [Thread-13] INFO  [,] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2023-08-10 09:24:22.355 [Thread-13] INFO  [,] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2023-08-10 09:24:22.534 [main] INFO  [,] c.b.s.SaleOrderSystemApplicationTests - Starting SaleOrderSystemApplicationTests on ATHQ-20221218UI with PID 16824 (started by Lcs in F:\study\javaProject\SaleOrderSystem)
+2023-08-10 09:24:22.536 [main] INFO  [,] c.b.s.SaleOrderSystemApplicationTests - No active profile set, falling back to default profiles: default
+2023-08-10 09:24:22.579 [restartedMain] INFO  [,] c.b.saleordersystem.SaleOrderSystemApplication - Starting SaleOrderSystemApplication on ATHQ-20221218UI with PID 4512 (F:\study\javaProject\SaleOrderSystem\target\classes started by Lcs in F:\study\javaProject\SaleOrderSystem)
+2023-08-10 09:24:22.579 [restartedMain] INFO  [,] c.b.saleordersystem.SaleOrderSystemApplication - No active profile set, falling back to default profiles: default
+2023-08-10 09:24:23.021 [restartedMain] INFO  [,] o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2023-08-10 09:24:23.022 [restartedMain] INFO  [,] org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2023-08-10 09:24:23.022 [restartedMain] INFO  [,] org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2023-08-10 09:24:23.022 [restartedMain] INFO  [,] org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.41]
+2023-08-10 09:24:23.038 [restartedMain] INFO  [,] o.a.c.c.C.[Tomcat].[localhost].[/benewake] - Initializing Spring embedded WebApplicationContext
+2023-08-10 09:24:23.038 [restartedMain] INFO  [,] o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 456 ms
+2023-08-10 09:24:24.076 [restartedMain] INFO  [,] o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService
+2023-08-10 09:24:24.076 [restartedMain] INFO  [,] o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'asynExecutor'
+2023-08-10 09:24:24.151 [restartedMain] INFO  [,] o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2023-08-10 09:24:24.544 [restartedMain] INFO  [,] org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2023-08-10 09:24:24.547 [restartedMain] INFO  [,] o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '/benewake'
+2023-08-10 09:24:24.659 [restartedMain] INFO  [,] o.s.a.rabbit.connection.CachingConnectionFactory - Attempting to connect to: [47.93.30.99:5672]
+2023-08-10 09:24:24.701 [restartedMain] INFO  [,] o.s.a.rabbit.connection.CachingConnectionFactory - Created new connection: rabbitConnectionFactory#456bc11:0/SimpleConnection@48082f84 [delegate=amqp://guest@47.93.30.99:5672/, localPort= 52659]
+2023-08-10 09:24:24.784 [restartedMain] INFO  [,] c.b.saleordersystem.SaleOrderSystemApplication - Started SaleOrderSystemApplication in 2.254 seconds (JVM running for 276.942)
+2023-08-10 09:24:24.786 [restartedMain] INFO  [,] o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2023-08-10 09:24:28.415 [main] INFO  [,] o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService
+2023-08-10 09:24:28.424 [main] INFO  [,] o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'asynExecutor'
+2023-08-10 09:24:30.195 [main] INFO  [,] o.s.a.rabbit.connection.CachingConnectionFactory - Attempting to connect to: [47.93.30.99:5672]
+2023-08-10 09:24:30.317 [main] INFO  [,] o.s.a.rabbit.connection.CachingConnectionFactory - Created new connection: rabbitConnectionFactory#5a058be5:0/SimpleConnection@61b8c9de [delegate=amqp://guest@47.93.30.99:5672/, localPort= 52665]
+2023-08-10 09:24:30.668 [main] INFO  [,] c.b.s.SaleOrderSystemApplicationTests - Started SaleOrderSystemApplicationTests in 8.63 seconds (JVM running for 9.626)
+2023-08-10 09:24:30.949 [SpringContextShutdownHook] INFO  [,] o.s.a.r.listener.SimpleMessageListenerContainer - Waiting for workers to finish.
+2023-08-10 09:24:31.664 [SpringContextShutdownHook] INFO  [,] o.s.a.r.listener.SimpleMessageListenerContainer - Successfully waited for workers to finish.
+2023-08-10 09:24:31.668 [SpringContextShutdownHook] INFO  [,] o.s.a.r.listener.SimpleMessageListenerContainer - Shutdown ignored - container is not active already
+2023-08-10 09:24:31.669 [SpringContextShutdownHook] INFO  [,] o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'asynExecutor'
+2023-08-10 09:27:21.126 [main] INFO  [,] c.b.s.SaleOrderSystemApplicationTests - Starting SaleOrderSystemApplicationTests on ATHQ-20221218UI with PID 4740 (started by Lcs in F:\study\javaProject\SaleOrderSystem)
+2023-08-10 09:27:21.127 [main] INFO  [,] c.b.s.SaleOrderSystemApplicationTests - No active profile set, falling back to default profiles: default
+2023-08-10 09:27:26.995 [main] INFO  [,] o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService
+2023-08-10 09:27:27.004 [main] INFO  [,] o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'asynExecutor'
+2023-08-10 09:27:28.816 [main] INFO  [,] o.s.a.rabbit.connection.CachingConnectionFactory - Attempting to connect to: [47.93.30.99:5672]
+2023-08-10 09:27:28.926 [main] INFO  [,] o.s.a.rabbit.connection.CachingConnectionFactory - Created new connection: rabbitConnectionFactory#5a058be5:0/SimpleConnection@61b8c9de [delegate=amqp://guest@47.93.30.99:5672/, localPort= 52868]
+2023-08-10 09:27:29.294 [main] INFO  [,] c.b.s.SaleOrderSystemApplicationTests - Started SaleOrderSystemApplicationTests in 8.67 seconds (JVM running for 9.867)
+2023-08-10 09:27:29.528 [SpringContextShutdownHook] INFO  [,] o.s.a.r.listener.SimpleMessageListenerContainer - Waiting for workers to finish.
+2023-08-10 09:27:30.294 [SpringContextShutdownHook] INFO  [,] o.s.a.r.listener.SimpleMessageListenerContainer - Successfully waited for workers to finish.
+2023-08-10 09:27:30.298 [SpringContextShutdownHook] INFO  [,] o.s.a.r.listener.SimpleMessageListenerContainer - Shutdown ignored - container is not active already
+2023-08-10 09:27:30.299 [SpringContextShutdownHook] INFO  [,] o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'asynExecutor'
+2023-08-10 09:31:04.139 [main] INFO  [,] c.b.s.SaleOrderSystemApplicationTests - Starting SaleOrderSystemApplicationTests on ATHQ-20221218UI with PID 9936 (started by Lcs in F:\study\javaProject\SaleOrderSystem)
+2023-08-10 09:31:04.140 [main] INFO  [,] c.b.s.SaleOrderSystemApplicationTests - No active profile set, falling back to default profiles: default
+2023-08-10 09:31:10.125 [main] INFO  [,] o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService
+2023-08-10 09:31:10.134 [main] INFO  [,] o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'asynExecutor'
+2023-08-10 09:31:11.877 [main] INFO  [,] o.s.a.rabbit.connection.CachingConnectionFactory - Attempting to connect to: [47.93.30.99:5672]
+2023-08-10 09:31:11.992 [main] INFO  [,] o.s.a.rabbit.connection.CachingConnectionFactory - Created new connection: rabbitConnectionFactory#5a058be5:0/SimpleConnection@3ba97962 [delegate=amqp://guest@47.93.30.99:5672/, localPort= 53093]
+2023-08-10 09:31:12.353 [main] INFO  [,] c.b.s.SaleOrderSystemApplicationTests - Started SaleOrderSystemApplicationTests in 8.632 seconds (JVM running for 9.595)
+2023-08-10 09:31:12.586 [SpringContextShutdownHook] INFO  [,] o.s.a.r.listener.SimpleMessageListenerContainer - Waiting for workers to finish.
+2023-08-10 09:31:13.358 [SpringContextShutdownHook] INFO  [,] o.s.a.r.listener.SimpleMessageListenerContainer - Successfully waited for workers to finish.
+2023-08-10 09:31:13.362 [SpringContextShutdownHook] INFO  [,] o.s.a.r.listener.SimpleMessageListenerContainer - Shutdown ignored - container is not active already
+2023-08-10 09:31:13.363 [SpringContextShutdownHook] INFO  [,] o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'asynExecutor'
+2023-08-10 09:34:34.187 [main] INFO  [,] c.b.s.SaleOrderSystemApplicationTests - Starting SaleOrderSystemApplicationTests on ATHQ-20221218UI with PID 13540 (started by Lcs in F:\study\javaProject\SaleOrderSystem)
+2023-08-10 09:34:34.188 [main] INFO  [,] c.b.s.SaleOrderSystemApplicationTests - No active profile set, falling back to default profiles: default
+2023-08-10 09:34:40.070 [main] INFO  [,] o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService
+2023-08-10 09:34:40.079 [main] INFO  [,] o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'asynExecutor'
+2023-08-10 09:34:41.818 [main] INFO  [,] o.s.a.rabbit.connection.CachingConnectionFactory - Attempting to connect to: [47.93.30.99:5672]
+2023-08-10 09:34:41.940 [main] INFO  [,] o.s.a.rabbit.connection.CachingConnectionFactory - Created new connection: rabbitConnectionFactory#5a058be5:0/SimpleConnection@61b8c9de [delegate=amqp://guest@47.93.30.99:5672/, localPort= 53309]
+2023-08-10 09:34:42.314 [main] INFO  [,] c.b.s.SaleOrderSystemApplicationTests - Started SaleOrderSystemApplicationTests in 8.546 seconds (JVM running for 9.512)
+2023-08-10 09:34:42.542 [SpringContextShutdownHook] INFO  [,] o.s.a.r.listener.SimpleMessageListenerContainer - Waiting for workers to finish.
+2023-08-10 09:34:43.312 [SpringContextShutdownHook] INFO  [,] o.s.a.r.listener.SimpleMessageListenerContainer - Successfully waited for workers to finish.
+2023-08-10 09:34:43.316 [SpringContextShutdownHook] INFO  [,] o.s.a.r.listener.SimpleMessageListenerContainer - Shutdown ignored - container is not active already
+2023-08-10 09:34:43.317 [SpringContextShutdownHook] INFO  [,] o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'asynExecutor'
+2023-08-10 09:35:32.595 [main] INFO  [,] c.b.s.SaleOrderSystemApplicationTests - Starting SaleOrderSystemApplicationTests on ATHQ-20221218UI with PID 7556 (started by Lcs in F:\study\javaProject\SaleOrderSystem)
+2023-08-10 09:35:32.596 [main] INFO  [,] c.b.s.SaleOrderSystemApplicationTests - No active profile set, falling back to default profiles: default
+2023-08-10 09:35:38.432 [main] INFO  [,] o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService
+2023-08-10 09:35:38.441 [main] INFO  [,] o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'asynExecutor'
+2023-08-10 09:35:40.166 [main] INFO  [,] o.s.a.rabbit.connection.CachingConnectionFactory - Attempting to connect to: [47.93.30.99:5672]
+2023-08-10 09:35:40.276 [main] INFO  [,] o.s.a.rabbit.connection.CachingConnectionFactory - Created new connection: rabbitConnectionFactory#5a058be5:0/SimpleConnection@61b8c9de [delegate=amqp://guest@47.93.30.99:5672/, localPort= 53373]
+2023-08-10 09:35:40.642 [main] INFO  [,] c.b.s.SaleOrderSystemApplicationTests - Started SaleOrderSystemApplicationTests in 8.472 seconds (JVM running for 9.433)
+2023-08-10 09:35:40.887 [SpringContextShutdownHook] INFO  [,] o.s.a.r.listener.SimpleMessageListenerContainer - Waiting for workers to finish.
+2023-08-10 09:35:41.637 [SpringContextShutdownHook] INFO  [,] o.s.a.r.listener.SimpleMessageListenerContainer - Successfully waited for workers to finish.
+2023-08-10 09:35:41.641 [SpringContextShutdownHook] INFO  [,] o.s.a.r.listener.SimpleMessageListenerContainer - Shutdown ignored - container is not active already
+2023-08-10 09:35:41.642 [SpringContextShutdownHook] INFO  [,] o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'asynExecutor'
+2023-08-10 09:39:19.546 [main] INFO  [,] c.b.s.SaleOrderSystemApplicationTests - Starting SaleOrderSystemApplicationTests on ATHQ-20221218UI with PID 2720 (started by Lcs in F:\study\javaProject\SaleOrderSystem)
+2023-08-10 09:39:19.547 [main] INFO  [,] c.b.s.SaleOrderSystemApplicationTests - No active profile set, falling back to default profiles: default
+2023-08-10 09:39:25.474 [main] INFO  [,] o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService
+2023-08-10 09:39:25.483 [main] INFO  [,] o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'asynExecutor'
+2023-08-10 09:39:27.985 [main] INFO  [,] o.s.a.rabbit.connection.CachingConnectionFactory - Attempting to connect to: [47.93.30.99:5672]
+2023-08-10 09:39:28.091 [main] INFO  [,] o.s.a.rabbit.connection.CachingConnectionFactory - Created new connection: rabbitConnectionFactory#5a058be5:0/SimpleConnection@61b8c9de [delegate=amqp://guest@47.93.30.99:5672/, localPort= 53915]
+2023-08-10 09:39:28.491 [main] INFO  [,] c.b.s.SaleOrderSystemApplicationTests - Started SaleOrderSystemApplicationTests in 9.387 seconds (JVM running for 10.405)
+2023-08-10 09:39:28.764 [SpringContextShutdownHook] INFO  [,] o.s.a.r.listener.SimpleMessageListenerContainer - Waiting for workers to finish.
+2023-08-10 09:39:29.479 [SpringContextShutdownHook] INFO  [,] o.s.a.r.listener.SimpleMessageListenerContainer - Successfully waited for workers to finish.
+2023-08-10 09:39:29.483 [SpringContextShutdownHook] INFO  [,] o.s.a.r.listener.SimpleMessageListenerContainer - Shutdown ignored - container is not active already
+2023-08-10 09:39:29.484 [SpringContextShutdownHook] INFO  [,] o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'asynExecutor'
+2023-08-10 09:44:52.106 [http-nio-8080-exec-3] INFO  [,] o.a.c.c.C.[Tomcat].[localhost].[/benewake] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-08-10 09:44:52.107 [http-nio-8080-exec-3] INFO  [,] org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2023-08-10 09:44:52.115 [http-nio-8080-exec-3] INFO  [,] org.springframework.web.servlet.DispatcherServlet - Completed initialization in 8 ms
+2023-08-10 09:44:52.120 [http-nio-8080-exec-3] INFO  [,] com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Starting...
+2023-08-10 09:44:52.136 [http-nio-8080-exec-3] INFO  [,] com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Start completed.
+2023-08-10 09:44:52.144 [http-nio-8080-exec-3] INFO  [,] com.benewake.saleordersystem.aspect.LogAspect - 用户[0:0:0:0:0:0:0:1],在[2023-08-10 09:08:52],访问了[com.benewake.saleordersystem.controller.HomeController]的[logout]方法，参数为[[92763afc41834efbacbf3c02e65b2fbc]].
+2023-08-10 09:45:16.917 [http-nio-8080-exec-2] INFO  [,] com.benewake.saleordersystem.aspect.LogAspect - 用户[0:0:0:0:0:0:0:1],在[2023-08-10 09:08:16],访问了[com.benewake.saleordersystem.controller.HomeController]的[login]方法，参数为[[User(id=null, username=刘洪清, password=14021402liuhongqing, salt=null, userType=null, userConllection=null), org.apache.catalina.connector.ResponseFacade@72e7abfd]].
+2023-08-10 09:49:47.297 [http-nio-8080-exec-6] INFO  [,] com.benewake.saleordersystem.aspect.LogAspect - 用户[0:0:0:0:0:0:0:1],在[2023-08-10 09:08:47],访问了[com.benewake.saleordersystem.controller.SaleOrderController]的[addInquiries]方法，参数为[[StartInquiryVo(inquiryList=[Inquiry(inquiryId=null, inquiryCode=null, state=null, createdTime=null, createdUser=null, salesmanId=3, itemId=3, customerId=3, saleNum=50, expectedTime=Fri Aug 11 00:00:00 GMT+08:00 2023, arrangedTime=null, inquiryType=5, remark=null), Inquiry(inquiryId=null, inquiryCode=null, state=null, createdTime=null, createdUser=null, salesmanId=3, itemId=3, customerId=3, saleNum=50, expectedTime=Fri Aug 11 00:00:00 GMT+08:00 2023, arrangedTime=null, inquiryType=4, remark=null)], startInquiry=1)]].
+2023-08-10 10:08:52.415 [SpringContextShutdownHook] INFO  [,] o.s.a.r.listener.SimpleMessageListenerContainer - Waiting for workers to finish.
+2023-08-10 10:08:53.011 [SpringContextShutdownHook] INFO  [,] o.s.a.r.listener.SimpleMessageListenerContainer - Successfully waited for workers to finish.
+2023-08-10 10:08:53.367 [SpringContextShutdownHook] INFO  [,] o.s.a.r.listener.SimpleMessageListenerContainer - Shutdown ignored - container is not active already
+2023-08-10 10:08:53.368 [SpringContextShutdownHook] INFO  [,] o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'asynExecutor'
+2023-08-10 10:08:53.371 [SpringContextShutdownHook] INFO  [,] com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Shutdown initiated...
+2023-08-10 10:08:53.373 [SpringContextShutdownHook] INFO  [,] com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Shutdown completed.
+2023-08-10 10:09:05.002 [restartedMain] INFO  [,] c.b.saleordersystem.SaleOrderSystemApplication - Starting SaleOrderSystemApplication on ATHQ-20221218UI with PID 5180 (F:\study\javaProject\SaleOrderSystem\target\classes started by Lcs in F:\study\javaProject\SaleOrderSystem)
+2023-08-10 10:09:05.005 [restartedMain] INFO  [,] c.b.saleordersystem.SaleOrderSystemApplication - No active profile set, falling back to default profiles: default
+2023-08-10 10:09:05.050 [restartedMain] INFO  [,] o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-08-10 10:09:05.050 [restartedMain] INFO  [,] o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-08-10 10:09:06.604 [restartedMain] INFO  [,] o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2023-08-10 10:09:06.613 [restartedMain] INFO  [,] org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2023-08-10 10:09:06.613 [restartedMain] INFO  [,] org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2023-08-10 10:09:06.614 [restartedMain] INFO  [,] org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.41]
+2023-08-10 10:09:06.688 [restartedMain] INFO  [,] o.a.c.c.C.[Tomcat].[localhost].[/benewake] - Initializing Spring embedded WebApplicationContext
+2023-08-10 10:09:06.688 [restartedMain] INFO  [,] o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1637 ms
+2023-08-10 10:09:09.039 [restartedMain] INFO  [,] o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService
+2023-08-10 10:09:09.040 [restartedMain] INFO  [,] o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'asynExecutor'
+2023-08-10 10:09:09.170 [restartedMain] INFO  [,] o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2023-08-10 10:09:09.810 [restartedMain] INFO  [,] org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2023-08-10 10:09:09.828 [restartedMain] INFO  [,] o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '/benewake'
+2023-08-10 10:09:10.189 [restartedMain] INFO  [,] o.s.a.rabbit.connection.CachingConnectionFactory - Attempting to connect to: [47.93.30.99:5672]
+2023-08-10 10:09:10.270 [restartedMain] INFO  [,] o.s.a.rabbit.connection.CachingConnectionFactory - Created new connection: rabbitConnectionFactory#4f7930f9:0/SimpleConnection@21db88a2 [delegate=amqp://guest@47.93.30.99:5672/, localPort= 56967]
+2023-08-10 10:09:10.421 [restartedMain] INFO  [,] c.b.saleordersystem.SaleOrderSystemApplication - Started SaleOrderSystemApplication in 5.822 seconds (JVM running for 6.729)
+2023-08-10 10:14:08.956 [http-nio-8080-exec-2] INFO  [,] o.a.c.c.C.[Tomcat].[localhost].[/benewake] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-08-10 10:14:08.956 [http-nio-8080-exec-2] INFO  [,] org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2023-08-10 10:14:08.967 [http-nio-8080-exec-2] INFO  [,] org.springframework.web.servlet.DispatcherServlet - Completed initialization in 11 ms
+2023-08-10 10:14:09.044 [http-nio-8080-exec-2] INFO  [,] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2023-08-10 10:14:09.187 [http-nio-8080-exec-2] INFO  [,] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2023-08-10 10:14:09.302 [http-nio-8080-exec-2] INFO  [,] com.benewake.saleordersystem.aspect.LogAspect - 用户[0:0:0:0:0:0:0:1],在[2023-08-10 10:08:09],访问了[com.benewake.saleordersystem.controller.SaleOrderController]的[updateInquired]方法，参数为[[Inquiry(inquiryId=321, inquiryCode=XSYC2023080012, state=null, createdTime=null, createdUser=null, salesmanId=3, itemId=3, customerId=3, saleNum=50, expectedTime=Fri Aug 11 00:00:00 GMT+08:00 2023, arrangedTime=null, inquiryType=4, remark=null)]].
+2023-08-10 10:15:04.670 [http-nio-8080-exec-10] INFO  [,] com.benewake.saleordersystem.aspect.LogAspect - 用户[0:0:0:0:0:0:0:1],在[2023-08-10 10:08:04],访问了[com.benewake.saleordersystem.controller.SaleOrderController]的[updateInquired]方法，参数为[[Inquiry(inquiryId=321, inquiryCode=XSYC2023080019, state=1, createdTime=null, createdUser=null, salesmanId=3, itemId=3, customerId=3, saleNum=50, expectedTime=Fri Aug 11 00:00:00 GMT+08:00 2023, arrangedTime=null, inquiryType=4, remark=null)]].
+2023-08-10 10:16:53.364 [http-nio-8080-exec-1] INFO  [,] com.benewake.saleordersystem.aspect.LogAspect - 用户[0:0:0:0:0:0:0:1],在[2023-08-10 10:08:53],访问了[com.benewake.saleordersystem.controller.SaleOrderController]的[updateInquired]方法，参数为[[Inquiry(inquiryId=321, inquiryCode=XSYC2023080019, state=1, createdTime=null, createdUser=null, salesmanId=3, itemId=3, customerId=3, saleNum=50, expectedTime=Fri Aug 11 00:00:00 GMT+08:00 2023, arrangedTime=null, inquiryType=4, remark=null)]].
+2023-08-10 10:17:26.517 [http-nio-8080-exec-7] INFO  [,] com.benewake.saleordersystem.aspect.LogAspect - 用户[0:0:0:0:0:0:0:1],在[2023-08-10 10:08:26],访问了[com.benewake.saleordersystem.controller.SaleOrderController]的[updateInquired]方法，参数为[[Inquiry(inquiryId=321, inquiryCode=XSYC2023080019, state=1, createdTime=null, createdUser=null, salesmanId=3, itemId=3, customerId=3, saleNum=50, expectedTime=Fri Aug 11 00:00:00 GMT+08:00 2023, arrangedTime=null, inquiryType=4, remark=null)]].
+2023-08-10 10:17:36.117 [http-nio-8080-exec-8] INFO  [,] com.benewake.saleordersystem.aspect.LogAspect - 用户[0:0:0:0:0:0:0:1],在[2023-08-10 10:08:36],访问了[com.benewake.saleordersystem.controller.SaleOrderController]的[updateInquired]方法，参数为[[Inquiry(inquiryId=321, inquiryCode=XSYC2023080019, state=1, createdTime=null, createdUser=3, salesmanId=3, itemId=3, customerId=3, saleNum=50, expectedTime=Fri Aug 11 00:00:00 GMT+08:00 2023, arrangedTime=null, inquiryType=4, remark=null)]].
+2023-08-10 10:18:41.542 [SpringContextShutdownHook] INFO  [,] o.s.a.r.listener.SimpleMessageListenerContainer - Waiting for workers to finish.
+2023-08-10 10:18:41.664 [SpringContextShutdownHook] INFO  [,] o.s.a.r.listener.SimpleMessageListenerContainer - Successfully waited for workers to finish.
+2023-08-10 10:18:42.180 [SpringContextShutdownHook] INFO  [,] o.s.a.r.listener.SimpleMessageListenerContainer - Shutdown ignored - container is not active already
+2023-08-10 10:18:42.182 [SpringContextShutdownHook] INFO  [,] o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'asynExecutor'
+2023-08-10 10:18:42.188 [SpringContextShutdownHook] INFO  [,] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2023-08-10 10:18:42.194 [SpringContextShutdownHook] INFO  [,] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2023-08-10 10:18:50.780 [restartedMain] INFO  [,] c.b.saleordersystem.SaleOrderSystemApplication - Starting SaleOrderSystemApplication on ATHQ-20221218UI with PID 21224 (F:\study\javaProject\SaleOrderSystem\target\classes started by Lcs in F:\study\javaProject\SaleOrderSystem)
+2023-08-10 10:18:50.783 [restartedMain] INFO  [,] c.b.saleordersystem.SaleOrderSystemApplication - No active profile set, falling back to default profiles: default
+2023-08-10 10:18:50.827 [restartedMain] INFO  [,] o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-08-10 10:18:50.828 [restartedMain] INFO  [,] o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-08-10 10:18:52.392 [restartedMain] INFO  [,] o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2023-08-10 10:18:52.400 [restartedMain] INFO  [,] org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2023-08-10 10:18:52.401 [restartedMain] INFO  [,] org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2023-08-10 10:18:52.401 [restartedMain] INFO  [,] org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.41]
+2023-08-10 10:18:52.474 [restartedMain] INFO  [,] o.a.c.c.C.[Tomcat].[localhost].[/benewake] - Initializing Spring embedded WebApplicationContext
+2023-08-10 10:18:52.474 [restartedMain] INFO  [,] o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1646 ms
+2023-08-10 10:18:54.847 [restartedMain] INFO  [,] o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService
+2023-08-10 10:18:54.848 [restartedMain] INFO  [,] o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'asynExecutor'
+2023-08-10 10:18:54.977 [restartedMain] INFO  [,] o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2023-08-10 10:18:55.633 [restartedMain] INFO  [,] org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2023-08-10 10:18:55.651 [restartedMain] INFO  [,] o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '/benewake'
+2023-08-10 10:18:55.958 [restartedMain] INFO  [,] o.s.a.rabbit.connection.CachingConnectionFactory - Attempting to connect to: [47.93.30.99:5672]
+2023-08-10 10:18:56.026 [restartedMain] INFO  [,] o.s.a.rabbit.connection.CachingConnectionFactory - Created new connection: rabbitConnectionFactory#67d46f7a:0/SimpleConnection@4e6c09ac [delegate=amqp://guest@47.93.30.99:5672/, localPort= 57714]
+2023-08-10 10:18:56.182 [restartedMain] INFO  [,] c.b.saleordersystem.SaleOrderSystemApplication - Started SaleOrderSystemApplication in 5.805 seconds (JVM running for 6.69)
+2023-08-10 10:19:49.359 [SpringContextShutdownHook] INFO  [,] o.s.a.r.listener.SimpleMessageListenerContainer - Waiting for workers to finish.
+2023-08-10 10:19:49.764 [SpringContextShutdownHook] INFO  [,] o.s.a.r.listener.SimpleMessageListenerContainer - Successfully waited for workers to finish.
+2023-08-10 10:19:50.136 [SpringContextShutdownHook] INFO  [,] o.s.a.r.listener.SimpleMessageListenerContainer - Shutdown ignored - container is not active already
+2023-08-10 10:19:50.137 [SpringContextShutdownHook] INFO  [,] o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'asynExecutor'
+2023-08-10 10:19:58.154 [restartedMain] INFO  [,] c.b.saleordersystem.SaleOrderSystemApplication - Starting SaleOrderSystemApplication on ATHQ-20221218UI with PID 17772 (F:\study\javaProject\SaleOrderSystem\target\classes started by Lcs in F:\study\javaProject\SaleOrderSystem)
+2023-08-10 10:19:58.156 [restartedMain] INFO  [,] c.b.saleordersystem.SaleOrderSystemApplication - No active profile set, falling back to default profiles: default
+2023-08-10 10:19:58.218 [restartedMain] INFO  [,] o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-08-10 10:19:58.218 [restartedMain] INFO  [,] o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-08-10 10:20:00.061 [restartedMain] INFO  [,] o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2023-08-10 10:20:00.069 [restartedMain] INFO  [,] org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2023-08-10 10:20:00.070 [restartedMain] INFO  [,] org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2023-08-10 10:20:00.070 [restartedMain] INFO  [,] org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.41]
+2023-08-10 10:20:00.146 [restartedMain] INFO  [,] o.a.c.c.C.[Tomcat].[localhost].[/benewake] - Initializing Spring embedded WebApplicationContext
+2023-08-10 10:20:00.146 [restartedMain] INFO  [,] o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1927 ms
+2023-08-10 10:20:02.539 [restartedMain] INFO  [,] o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService
+2023-08-10 10:20:02.540 [restartedMain] INFO  [,] o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'asynExecutor'
+2023-08-10 10:20:02.685 [restartedMain] INFO  [,] o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2023-08-10 10:20:03.367 [restartedMain] INFO  [,] org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2023-08-10 10:20:03.385 [restartedMain] INFO  [,] o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '/benewake'
+2023-08-10 10:20:03.748 [restartedMain] INFO  [,] o.s.a.rabbit.connection.CachingConnectionFactory - Attempting to connect to: [47.93.30.99:5672]
+2023-08-10 10:20:03.850 [restartedMain] INFO  [,] o.s.a.rabbit.connection.CachingConnectionFactory - Created new connection: rabbitConnectionFactory#67d46f7a:0/SimpleConnection@d601cad [delegate=amqp://guest@47.93.30.99:5672/, localPort= 57877]
+2023-08-10 10:20:04.037 [restartedMain] INFO  [,] c.b.saleordersystem.SaleOrderSystemApplication - Started SaleOrderSystemApplication in 6.293 seconds (JVM running for 7.154)
+2023-08-10 10:20:12.274 [http-nio-8080-exec-7] INFO  [,] o.a.c.c.C.[Tomcat].[localhost].[/benewake] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-08-10 10:20:12.274 [http-nio-8080-exec-7] INFO  [,] org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2023-08-10 10:20:12.285 [http-nio-8080-exec-7] INFO  [,] org.springframework.web.servlet.DispatcherServlet - Completed initialization in 11 ms
+2023-08-10 10:20:12.363 [http-nio-8080-exec-7] INFO  [,] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2023-08-10 10:20:12.498 [http-nio-8080-exec-7] INFO  [,] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2023-08-10 10:20:12.615 [http-nio-8080-exec-7] INFO  [,] com.benewake.saleordersystem.aspect.LogAspect - 用户[0:0:0:0:0:0:0:1],在[2023-08-10 10:08:12],访问了[com.benewake.saleordersystem.controller.SaleOrderController]的[updateInquired]方法，参数为[[Inquiry(inquiryId=321, inquiryCode=XSYC2023080019, state=1, createdTime=null, createdUser=null, salesmanId=3, itemId=3, customerId=3, saleNum=50, expectedTime=Fri Aug 11 00:00:00 GMT+08:00 2023, arrangedTime=null, inquiryType=4, remark=null)]].
+2023-08-10 10:21:43.783 [http-nio-8080-exec-6] INFO  [,] com.benewake.saleordersystem.aspect.LogAspect - 用户[0:0:0:0:0:0:0:1],在[2023-08-10 10:08:43],访问了[com.benewake.saleordersystem.controller.SaleOrderController]的[updateInquired]方法，参数为[[Inquiry(inquiryId=321, inquiryCode=XSYC2023080019, state=-1, createdTime=null, createdUser=null, salesmanId=3, itemId=3, customerId=3, saleNum=50, expectedTime=Fri Aug 11 00:00:00 GMT+08:00 2023, arrangedTime=null, inquiryType=4, remark=null)]].
+2023-08-10 10:22:01.392 [http-nio-8080-exec-5] INFO  [,] com.benewake.saleordersystem.aspect.LogAspect - 用户[0:0:0:0:0:0:0:1],在[2023-08-10 10:08:01],访问了[com.benewake.saleordersystem.controller.SaleOrderController]的[updateInquired]方法，参数为[[Inquiry(inquiryId=325, inquiryCode=XSYC2023080019, state=0, createdTime=null, createdUser=null, salesmanId=3, itemId=3, customerId=3, saleNum=49, expectedTime=Fri Aug 11 00:00:00 GMT+08:00 2023, arrangedTime=null, inquiryType=4, remark=null)]].
+2023-08-10 10:22:59.814 [SpringContextShutdownHook] INFO  [,] o.s.a.r.listener.SimpleMessageListenerContainer - Waiting for workers to finish.
+2023-08-10 10:23:00.711 [SpringContextShutdownHook] INFO  [,] o.s.a.r.listener.SimpleMessageListenerContainer - Successfully waited for workers to finish.
+2023-08-10 10:23:01.085 [SpringContextShutdownHook] INFO  [,] o.s.a.r.listener.SimpleMessageListenerContainer - Shutdown ignored - container is not active already
+2023-08-10 10:23:01.087 [SpringContextShutdownHook] INFO  [,] o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'asynExecutor'
+2023-08-10 10:23:01.094 [SpringContextShutdownHook] INFO  [,] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2023-08-10 10:23:01.099 [SpringContextShutdownHook] INFO  [,] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2023-08-10 10:30:10.333 [restartedMain] INFO  [,] c.b.saleordersystem.SaleOrderSystemApplication - Starting SaleOrderSystemApplication on ATHQ-20221218UI with PID 18420 (F:\study\javaProject\SaleOrderSystem\target\classes started by Lcs in F:\study\javaProject\SaleOrderSystem)
+2023-08-10 10:30:10.336 [restartedMain] INFO  [,] c.b.saleordersystem.SaleOrderSystemApplication - No active profile set, falling back to default profiles: default
+2023-08-10 10:30:10.383 [restartedMain] INFO  [,] o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-08-10 10:30:10.383 [restartedMain] INFO  [,] o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-08-10 10:30:11.942 [restartedMain] INFO  [,] o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2023-08-10 10:30:11.950 [restartedMain] INFO  [,] org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2023-08-10 10:30:11.951 [restartedMain] INFO  [,] org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2023-08-10 10:30:11.952 [restartedMain] INFO  [,] org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.41]
+2023-08-10 10:30:12.031 [restartedMain] INFO  [,] o.a.c.c.C.[Tomcat].[localhost].[/benewake] - Initializing Spring embedded WebApplicationContext
+2023-08-10 10:30:12.031 [restartedMain] INFO  [,] o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1647 ms
+2023-08-10 10:30:14.405 [restartedMain] INFO  [,] o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService
+2023-08-10 10:30:14.406 [restartedMain] INFO  [,] o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'asynExecutor'
+2023-08-10 10:30:14.537 [restartedMain] INFO  [,] o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2023-08-10 10:30:15.213 [restartedMain] INFO  [,] org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2023-08-10 10:30:15.233 [restartedMain] INFO  [,] o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '/benewake'
+2023-08-10 10:30:15.568 [restartedMain] INFO  [,] o.s.a.rabbit.connection.CachingConnectionFactory - Attempting to connect to: [47.93.30.99:5672]
+2023-08-10 10:30:15.646 [restartedMain] INFO  [,] o.s.a.rabbit.connection.CachingConnectionFactory - Created new connection: rabbitConnectionFactory#68443938:0/SimpleConnection@45b21c31 [delegate=amqp://guest@47.93.30.99:5672/, localPort= 58776]
+2023-08-10 10:30:15.811 [restartedMain] INFO  [,] c.b.saleordersystem.SaleOrderSystemApplication - Started SaleOrderSystemApplication in 5.893 seconds (JVM running for 6.755)
+2023-08-10 10:30:42.769 [http-nio-8080-exec-2] INFO  [,] o.a.c.c.C.[Tomcat].[localhost].[/benewake] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-08-10 10:30:42.770 [http-nio-8080-exec-2] INFO  [,] org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2023-08-10 10:30:42.781 [http-nio-8080-exec-2] INFO  [,] org.springframework.web.servlet.DispatcherServlet - Completed initialization in 11 ms
+2023-08-10 10:30:42.860 [http-nio-8080-exec-2] INFO  [,] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2023-08-10 10:30:42.999 [http-nio-8080-exec-2] INFO  [,] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2023-08-10 10:30:43.114 [http-nio-8080-exec-2] INFO  [,] com.benewake.saleordersystem.aspect.LogAspect - 用户[0:0:0:0:0:0:0:1],在[2023-08-10 10:08:43],访问了[com.benewake.saleordersystem.controller.SaleOrderController]的[updateInquired]方法，参数为[[Inquiry(inquiryId=326, inquiryCode=XSYC2023080019, state=0, createdTime=null, createdUser=null, salesmanId=3, itemId=3, customerId=3, saleNum=49, expectedTime=Fri Aug 11 00:00:00 GMT+08:00 2023, arrangedTime=null, inquiryType=4, remark=修改后！！！)]].
+2023-08-10 10:31:13.675 [http-nio-8080-exec-3] INFO  [,] com.benewake.saleordersystem.aspect.LogAspect - 用户[0:0:0:0:0:0:0:1],在[2023-08-10 10:08:13],访问了[com.benewake.saleordersystem.controller.SaleOrderController]的[selectList]方法，参数为[[FilterVo(tableId=1, viewId=-1, viewName=null, filterCriterias=[FilterCriteria(colName=inquiry_type, condition=like, value=YC)], cols=null)]].
+2023-08-10 10:31:13.737 [http-nio-8080-exec-3] INFO  [,] c.b.saleordersystem.aspect.TrackingTimeAspectj - Call method (public com.benewake.saleordersystem.utils.Result com.benewake.saleordersystem.controller.SaleOrderController.selectList(com.benewake.saleordersystem.entity.VO.FilterVo)) used time:57ms
+2023-08-10 10:33:29.338 [http-nio-8080-exec-4] INFO  [,] com.benewake.saleordersystem.aspect.LogAspect - 用户[0:0:0:0:0:0:0:1],在[2023-08-10 10:08:29],访问了[com.benewake.saleordersystem.controller.SaleOrderController]的[selectList]方法，参数为[[FilterVo(tableId=1, viewId=-1, viewName=null, filterCriterias=[FilterCriteria(colName=state, condition=eq, value=0)], cols=null)]].
+2023-08-10 10:33:29.359 [http-nio-8080-exec-4] INFO  [,] c.b.saleordersystem.aspect.TrackingTimeAspectj - Call method (public com.benewake.saleordersystem.utils.Result com.benewake.saleordersystem.controller.SaleOrderController.selectList(com.benewake.saleordersystem.entity.VO.FilterVo)) used time:21ms
+2023-08-10 10:34:45.724 [http-nio-8080-exec-9] INFO  [,] com.benewake.saleordersystem.aspect.LogAspect - 用户[0:0:0:0:0:0:0:1],在[2023-08-10 10:08:45],访问了[com.benewake.saleordersystem.controller.SaleOrderController]的[selectList]方法，参数为[[FilterVo(tableId=1, viewId=-1, viewName=null, filterCriterias=[FilterCriteria(colName=state, condition=eq, value=-1)], cols=null)]].
+2023-08-10 10:34:45.733 [http-nio-8080-exec-9] INFO  [,] c.b.saleordersystem.aspect.TrackingTimeAspectj - Call method (public com.benewake.saleordersystem.utils.Result com.benewake.saleordersystem.controller.SaleOrderController.selectList(com.benewake.saleordersystem.entity.VO.FilterVo)) used time:8ms
+2023-08-10 10:36:08.937 [http-nio-8080-exec-2] INFO  [,] com.benewake.saleordersystem.aspect.LogAspect - 用户[0:0:0:0:0:0:0:1],在[2023-08-10 10:08:08],访问了[com.benewake.saleordersystem.controller.SaleOrderController]的[selectList]方法，参数为[[FilterVo(tableId=1, viewId=-1, viewName=null, filterCriterias=[FilterCriteria(colName=state, condition=eq, value=-1)], cols=null)]].
+2023-08-10 10:36:08.944 [http-nio-8080-exec-2] INFO  [,] c.b.saleordersystem.aspect.TrackingTimeAspectj - Call method (public com.benewake.saleordersystem.utils.Result com.benewake.saleordersystem.controller.SaleOrderController.selectList(com.benewake.saleordersystem.entity.VO.FilterVo)) used time:7ms
+2023-08-10 10:36:34.926 [http-nio-8080-exec-3] INFO  [,] com.benewake.saleordersystem.aspect.LogAspect - 用户[0:0:0:0:0:0:0:1],在[2023-08-10 10:08:34],访问了[com.benewake.saleordersystem.controller.SaleOrderController]的[selectList]方法，参数为[[FilterVo(tableId=1, viewId=-1, viewName=null, filterCriterias=[FilterCriteria(colName=state, condition=like, value=无效)], cols=null)]].
+2023-08-10 10:36:34.934 [http-nio-8080-exec-3] INFO  [,] c.b.saleordersystem.aspect.TrackingTimeAspectj - Call method (public com.benewake.saleordersystem.utils.Result com.benewake.saleordersystem.controller.SaleOrderController.selectList(com.benewake.saleordersystem.entity.VO.FilterVo)) used time:7ms
+2023-08-10 10:36:39.653 [http-nio-8080-exec-6] INFO  [,] com.benewake.saleordersystem.aspect.LogAspect - 用户[0:0:0:0:0:0:0:1],在[2023-08-10 10:08:39],访问了[com.benewake.saleordersystem.controller.SaleOrderController]的[selectList]方法，参数为[[FilterVo(tableId=1, viewId=-1, viewName=null, filterCriterias=[FilterCriteria(colName=state, condition=like, value=)], cols=null)]].
+2023-08-10 10:36:39.672 [http-nio-8080-exec-6] INFO  [,] c.b.saleordersystem.aspect.TrackingTimeAspectj - Call method (public com.benewake.saleordersystem.utils.Result com.benewake.saleordersystem.controller.SaleOrderController.selectList(com.benewake.saleordersystem.entity.VO.FilterVo)) used time:19ms
+2023-08-10 10:36:51.376 [http-nio-8080-exec-5] INFO  [,] com.benewake.saleordersystem.aspect.LogAspect - 用户[0:0:0:0:0:0:0:1],在[2023-08-10 10:08:51],访问了[com.benewake.saleordersystem.controller.SaleOrderController]的[selectList]方法，参数为[[FilterVo(tableId=1, viewId=0, viewName=null, filterCriterias=[FilterCriteria(colName=state, condition=like, value=)], cols=null)]].
+2023-08-10 10:36:51.399 [http-nio-8080-exec-5] INFO  [,] c.b.saleordersystem.aspect.TrackingTimeAspectj - Call method (public com.benewake.saleordersystem.utils.Result com.benewake.saleordersystem.controller.SaleOrderController.selectList(com.benewake.saleordersystem.entity.VO.FilterVo)) used time:23ms
+2023-08-10 10:37:14.949 [http-nio-8080-exec-4] INFO  [,] com.benewake.saleordersystem.aspect.LogAspect - 用户[0:0:0:0:0:0:0:1],在[2023-08-10 10:08:14],访问了[com.benewake.saleordersystem.controller.SaleOrderController]的[selectList]方法，参数为[[FilterVo(tableId=1, viewId=0, viewName=null, filterCriterias=[], cols=null)]].
+2023-08-10 10:37:14.970 [http-nio-8080-exec-4] INFO  [,] c.b.saleordersystem.aspect.TrackingTimeAspectj - Call method (public com.benewake.saleordersystem.utils.Result com.benewake.saleordersystem.controller.SaleOrderController.selectList(com.benewake.saleordersystem.entity.VO.FilterVo)) used time:20ms
+2023-08-10 10:38:14.292 [http-nio-8080-exec-7] INFO  [,] com.benewake.saleordersystem.aspect.LogAspect - 用户[0:0:0:0:0:0:0:1],在[2023-08-10 10:08:14],访问了[com.benewake.saleordersystem.controller.SaleOrderController]的[updateInquired]方法，参数为[[Inquiry(inquiryId=327, inquiryCode=XSYC2023080019, state=0, createdTime=null, createdUser=null, salesmanId=3, itemId=3, customerId=3, saleNum=49, expectedTime=Fri Aug 11 00:00:00 GMT+08:00 2023, arrangedTime=null, inquiryType=4, remark=修改后！！！)]].
+2023-08-10 10:39:59.104 [http-nio-8080-exec-10] INFO  [,] com.benewake.saleordersystem.aspect.LogAspect - 用户[0:0:0:0:0:0:0:1],在[2023-08-10 10:08:59],访问了[com.benewake.saleordersystem.controller.SaleOrderController]的[updateInquired]方法，参数为[[Inquiry(inquiryId=328, inquiryCode=XSYC2023080019, state=0, createdTime=null, createdUser=null, salesmanId=3, itemId=3, customerId=3, saleNum=49, expectedTime=Fri Aug 11 00:00:00 GMT+08:00 2023, arrangedTime=null, inquiryType=4, remark=修改后！！！)]].
+2023-08-10 10:43:34.736 [http-nio-8080-exec-3] INFO  [,] com.benewake.saleordersystem.aspect.LogAspect - 用户[0:0:0:0:0:0:0:1],在[2023-08-10 10:08:34],访问了[com.benewake.saleordersystem.controller.SaleOrderController]的[updateInquired]方法，参数为[[Inquiry(inquiryId=329, inquiryCode=XSYC2023080019, state=0, createdTime=null, createdUser=null, salesmanId=3, itemId=3, customerId=3, saleNum=49, expectedTime=Fri Aug 11 00:00:00 GMT+08:00 2023, arrangedTime=null, inquiryType=4, remark=修改后！！！)]].
+2023-08-10 10:44:47.404 [http-nio-8080-exec-4] INFO  [,] com.benewake.saleordersystem.aspect.LogAspect - 用户[0:0:0:0:0:0:0:1],在[2023-08-10 10:08:47],访问了[com.benewake.saleordersystem.controller.SaleOrderController]的[selectList]方法，参数为[[FilterVo(tableId=1, viewId=0, viewName=null, filterCriterias=[], cols=null)]].
+2023-08-10 10:45:20.693 [http-nio-8080-exec-7] INFO  [,] com.benewake.saleordersystem.aspect.LogAspect - 用户[0:0:0:0:0:0:0:1],在[2023-08-10 10:08:20],访问了[com.benewake.saleordersystem.controller.SaleOrderController]的[selectList]方法，参数为[[FilterVo(tableId=1, viewId=0, viewName=null, filterCriterias=[], cols=null)]].
+2023-08-10 10:45:20.712 [http-nio-8080-exec-7] INFO  [,] c.b.saleordersystem.aspect.TrackingTimeAspectj - Call method (public com.benewake.saleordersystem.utils.Result com.benewake.saleordersystem.controller.SaleOrderController.selectList(com.benewake.saleordersystem.entity.VO.FilterVo)) used time:19ms
+2023-08-10 10:45:43.663 [SpringContextShutdownHook] INFO  [,] o.s.a.r.listener.SimpleMessageListenerContainer - Waiting for workers to finish.
+2023-08-10 10:45:44.425 [SpringContextShutdownHook] INFO  [,] o.s.a.r.listener.SimpleMessageListenerContainer - Successfully waited for workers to finish.
+2023-08-10 10:45:44.800 [SpringContextShutdownHook] INFO  [,] o.s.a.r.listener.SimpleMessageListenerContainer - Shutdown ignored - container is not active already
+2023-08-10 10:45:44.801 [SpringContextShutdownHook] INFO  [,] o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'asynExecutor'
+2023-08-10 10:45:44.808 [SpringContextShutdownHook] INFO  [,] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2023-08-10 10:45:44.814 [SpringContextShutdownHook] INFO  [,] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2023-08-10 11:23:03.211 [restartedMain] INFO  [,] c.b.saleordersystem.SaleOrderSystemApplication - Starting SaleOrderSystemApplication on ATHQ-20221218UI with PID 23496 (F:\study\javaProject\SaleOrderSystem\target\classes started by Lcs in F:\study\javaProject\SaleOrderSystem)
+2023-08-10 11:23:03.213 [restartedMain] INFO  [,] c.b.saleordersystem.SaleOrderSystemApplication - No active profile set, falling back to default profiles: default
+2023-08-10 11:23:03.258 [restartedMain] INFO  [,] o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-08-10 11:23:03.258 [restartedMain] INFO  [,] o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-08-10 11:23:04.808 [restartedMain] INFO  [,] o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2023-08-10 11:23:04.815 [restartedMain] INFO  [,] org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2023-08-10 11:23:04.816 [restartedMain] INFO  [,] org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2023-08-10 11:23:04.816 [restartedMain] INFO  [,] org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.41]
+2023-08-10 11:23:04.893 [restartedMain] INFO  [,] o.a.c.c.C.[Tomcat].[localhost].[/benewake] - Initializing Spring embedded WebApplicationContext
+2023-08-10 11:23:04.894 [restartedMain] INFO  [,] o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1635 ms
+2023-08-10 11:23:07.461 [restartedMain] INFO  [,] o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService
+2023-08-10 11:23:07.463 [restartedMain] INFO  [,] o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'asynExecutor'
+2023-08-10 11:23:07.596 [restartedMain] INFO  [,] o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2023-08-10 11:23:08.314 [restartedMain] INFO  [,] org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2023-08-10 11:23:08.332 [restartedMain] INFO  [,] o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '/benewake'
+2023-08-10 11:23:08.639 [restartedMain] INFO  [,] o.s.a.rabbit.connection.CachingConnectionFactory - Attempting to connect to: [localhost:5672]
+2023-08-10 11:23:12.715 [restartedMain] INFO  [,] o.s.a.r.listener.SimpleMessageListenerContainer - Broker not available; cannot force queue declarations during start: java.net.ConnectException: Connection refused: connect
+2023-08-10 11:23:12.723 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  [,] o.s.a.rabbit.connection.CachingConnectionFactory - Attempting to connect to: [localhost:5672]
+2023-08-10 11:23:16.789 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  [,] o.s.a.rabbit.connection.CachingConnectionFactory - Attempting to connect to: [localhost:5672]
+2023-08-10 11:23:20.858 [restartedMain] INFO  [,] c.b.saleordersystem.SaleOrderSystemApplication - Started SaleOrderSystemApplication in 18.032 seconds (JVM running for 19.02)
+2023-08-10 11:23:26.002 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  [,] o.s.a.r.listener.SimpleMessageListenerContainer - Restarting Consumer@ebf7e26: tags=[[]], channel=null, acknowledgeMode=MANUAL local queue size=0
+2023-08-10 11:23:26.004 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-2] INFO  [,] o.s.a.rabbit.connection.CachingConnectionFactory - Attempting to connect to: [localhost:5672]
+2023-08-10 11:23:30.041 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-2] INFO  [,] o.s.a.rabbit.connection.CachingConnectionFactory - Attempting to connect to: [localhost:5672]
+2023-08-10 11:23:39.219 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-2] INFO  [,] o.s.a.r.listener.SimpleMessageListenerContainer - Restarting Consumer@14c39a3f: tags=[[]], channel=null, acknowledgeMode=MANUAL local queue size=0
+2023-08-10 11:23:39.220 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-3] INFO  [,] o.s.a.rabbit.connection.CachingConnectionFactory - Attempting to connect to: [localhost:5672]
+2023-08-10 11:23:43.306 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-3] INFO  [,] o.s.a.rabbit.connection.CachingConnectionFactory - Attempting to connect to: [localhost:5672]
+2023-08-10 11:23:52.466 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-3] INFO  [,] o.s.a.r.listener.SimpleMessageListenerContainer - Restarting Consumer@7e5d7cda: tags=[[]], channel=null, acknowledgeMode=MANUAL local queue size=0
+2023-08-10 11:23:52.467 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-4] INFO  [,] o.s.a.rabbit.connection.CachingConnectionFactory - Attempting to connect to: [localhost:5672]
+2023-08-10 11:23:56.600 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-4] INFO  [,] o.s.a.rabbit.connection.CachingConnectionFactory - Attempting to connect to: [localhost:5672]
+2023-08-10 11:24:05.771 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-4] INFO  [,] o.s.a.r.listener.SimpleMessageListenerContainer - Restarting Consumer@26e17867: tags=[[]], channel=null, acknowledgeMode=MANUAL local queue size=0
+2023-08-10 11:24:05.772 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-5] INFO  [,] o.s.a.rabbit.connection.CachingConnectionFactory - Attempting to connect to: [localhost:5672]
+2023-08-10 11:24:09.914 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-5] INFO  [,] o.s.a.rabbit.connection.CachingConnectionFactory - Attempting to connect to: [localhost:5672]
+2023-08-10 11:24:19.086 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-5] INFO  [,] o.s.a.r.listener.SimpleMessageListenerContainer - Restarting Consumer@77a0452b: tags=[[]], channel=null, acknowledgeMode=MANUAL local queue size=0
+2023-08-10 11:24:19.087 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-6] INFO  [,] o.s.a.rabbit.connection.CachingConnectionFactory - Attempting to connect to: [localhost:5672]
+2023-08-10 11:24:23.192 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-6] INFO  [,] o.s.a.rabbit.connection.CachingConnectionFactory - Attempting to connect to: [localhost:5672]
+2023-08-10 11:24:32.371 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-6] INFO  [,] o.s.a.r.listener.SimpleMessageListenerContainer - Restarting Consumer@5fc83269: tags=[[]], channel=null, acknowledgeMode=MANUAL local queue size=0
+2023-08-10 11:24:32.372 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-7] INFO  [,] o.s.a.rabbit.connection.CachingConnectionFactory - Attempting to connect to: [localhost:5672]
+2023-08-10 11:24:36.490 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-7] INFO  [,] o.s.a.rabbit.connection.CachingConnectionFactory - Attempting to connect to: [localhost:5672]
+2023-08-10 11:24:44.858 [http-nio-8080-exec-6] INFO  [,] o.a.c.c.C.[Tomcat].[localhost].[/benewake] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-08-10 11:24:44.859 [http-nio-8080-exec-6] INFO  [,] org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2023-08-10 11:24:44.871 [http-nio-8080-exec-6] INFO  [,] org.springframework.web.servlet.DispatcherServlet - Completed initialization in 12 ms
+2023-08-10 11:24:44.957 [http-nio-8080-exec-6] INFO  [,] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2023-08-10 11:24:45.131 [http-nio-8080-exec-6] INFO  [,] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2023-08-10 11:24:45.263 [http-nio-8080-exec-6] INFO  [,] com.benewake.saleordersystem.aspect.LogAspect - 用户[0:0:0:0:0:0:0:1],在[2023-08-10 11:08:45],访问了[com.benewake.saleordersystem.controller.SaleOrderController]的[addInquiries]方法，参数为[[StartInquiryVo(inquiryList=[Inquiry(inquiryId=330, inquiryCode=null, state=null, createdTime=null, createdUser=null, salesmanId=null, itemId=null, customerId=null, saleNum=null, expectedTime=null, arrangedTime=null, inquiryType=null, remark=null)], startInquiry=1)]].
+2023-08-10 11:24:45.652 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-7] INFO  [,] o.s.a.r.listener.SimpleMessageListenerContainer - Restarting Consumer@32699dff: tags=[[]], channel=null, acknowledgeMode=MANUAL local queue size=0
+2023-08-10 11:24:45.653 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-8] INFO  [,] o.s.a.rabbit.connection.CachingConnectionFactory - Attempting to connect to: [localhost:5672]
+2023-08-10 11:24:49.748 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-8] INFO  [,] o.s.a.rabbit.connection.CachingConnectionFactory - Attempting to connect to: [localhost:5672]
+2023-08-10 11:24:58.910 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-8] INFO  [,] o.s.a.r.listener.SimpleMessageListenerContainer - Restarting Consumer@2e4b74fb: tags=[[]], channel=null, acknowledgeMode=MANUAL local queue size=0
+2023-08-10 11:24:58.911 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-9] INFO  [,] o.s.a.rabbit.connection.CachingConnectionFactory - Attempting to connect to: [localhost:5672]
+2023-08-10 11:25:02.982 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-9] INFO  [,] o.s.a.rabbit.connection.CachingConnectionFactory - Attempting to connect to: [localhost:5672]
+2023-08-10 11:25:12.169 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-9] INFO  [,] o.s.a.r.listener.SimpleMessageListenerContainer - Restarting Consumer@444c0a03: tags=[[]], channel=null, acknowledgeMode=MANUAL local queue size=0
+2023-08-10 11:25:12.170 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-10] INFO  [,] o.s.a.rabbit.connection.CachingConnectionFactory - Attempting to connect to: [localhost:5672]
+2023-08-10 11:25:16.278 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-10] INFO  [,] o.s.a.rabbit.connection.CachingConnectionFactory - Attempting to connect to: [localhost:5672]
+2023-08-10 11:25:25.523 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-10] INFO  [,] o.s.a.r.listener.SimpleMessageListenerContainer - Restarting Consumer@2c78aeaf: tags=[[]], channel=null, acknowledgeMode=MANUAL local queue size=0
+2023-08-10 11:25:25.524 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-11] INFO  [,] o.s.a.rabbit.connection.CachingConnectionFactory - Attempting to connect to: [localhost:5672]
+2023-08-10 11:25:29.614 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-11] INFO  [,] o.s.a.rabbit.connection.CachingConnectionFactory - Attempting to connect to: [localhost:5672]
+2023-08-10 11:25:38.830 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-11] INFO  [,] o.s.a.r.listener.SimpleMessageListenerContainer - Restarting Consumer@1c63c2c8: tags=[[]], channel=null, acknowledgeMode=MANUAL local queue size=0
+2023-08-10 11:25:38.831 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-12] INFO  [,] o.s.a.rabbit.connection.CachingConnectionFactory - Attempting to connect to: [localhost:5672]
+2023-08-10 11:25:42.908 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-12] INFO  [,] o.s.a.rabbit.connection.CachingConnectionFactory - Attempting to connect to: [localhost:5672]
+2023-08-10 11:25:52.162 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-12] INFO  [,] o.s.a.r.listener.SimpleMessageListenerContainer - Restarting Consumer@78e23138: tags=[[]], channel=null, acknowledgeMode=MANUAL local queue size=0
+2023-08-10 11:25:52.163 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-13] INFO  [,] o.s.a.rabbit.connection.CachingConnectionFactory - Attempting to connect to: [localhost:5672]
+2023-08-10 11:25:56.274 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-13] INFO  [,] o.s.a.rabbit.connection.CachingConnectionFactory - Attempting to connect to: [localhost:5672]
+2023-08-10 11:26:02.397 [SpringContextShutdownHook] INFO  [,] o.s.a.r.listener.SimpleMessageListenerContainer - Waiting for workers to finish.
+2023-08-10 11:26:02.397 [SpringContextShutdownHook] INFO  [,] o.s.a.r.listener.SimpleMessageListenerContainer - Successfully waited for workers to finish.
+2023-08-10 11:26:02.777 [SpringContextShutdownHook] INFO  [,] o.s.a.r.listener.SimpleMessageListenerContainer - Shutdown ignored - container is not active already
+2023-08-10 11:26:02.778 [SpringContextShutdownHook] INFO  [,] o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'asynExecutor'
+2023-08-10 11:26:02.785 [SpringContextShutdownHook] INFO  [,] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2023-08-10 11:26:02.791 [SpringContextShutdownHook] INFO  [,] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2023-08-10 11:26:09.392 [restartedMain] INFO  [,] c.b.saleordersystem.SaleOrderSystemApplication - Starting SaleOrderSystemApplication on ATHQ-20221218UI with PID 11156 (F:\study\javaProject\SaleOrderSystem\target\classes started by Lcs in F:\study\javaProject\SaleOrderSystem)
+2023-08-10 11:26:09.394 [restartedMain] INFO  [,] c.b.saleordersystem.SaleOrderSystemApplication - No active profile set, falling back to default profiles: default
+2023-08-10 11:26:09.440 [restartedMain] INFO  [,] o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-08-10 11:26:09.440 [restartedMain] INFO  [,] o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-08-10 11:26:11.029 [restartedMain] INFO  [,] o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2023-08-10 11:26:11.128 [restartedMain] INFO  [,] o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1687 ms
+2023-08-10 11:26:13.469 [restartedMain] INFO  [,] o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService
+2023-08-10 11:26:13.471 [restartedMain] INFO  [,] o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'asynExecutor'
+2023-08-10 11:26:13.599 [restartedMain] INFO  [,] o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2023-08-10 11:26:14.239 [restartedMain] INFO  [,] o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '/benewake'
+2023-08-10 11:26:14.563 [restartedMain] INFO  [,] c.b.saleordersystem.SaleOrderSystemApplication - Started SaleOrderSystemApplication in 5.581 seconds (JVM running for 6.439)
+2023-08-10 11:26:14.863 [SpringContextShutdownHook] INFO  [,] o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'asynExecutor'
+2023-08-10 11:26:18.147 [restartedMain] INFO  [,] c.b.saleordersystem.SaleOrderSystemApplication - Starting SaleOrderSystemApplication on ATHQ-20221218UI with PID 4752 (F:\study\javaProject\SaleOrderSystem\target\classes started by Lcs in F:\study\javaProject\SaleOrderSystem)
+2023-08-10 11:26:18.149 [restartedMain] INFO  [,] c.b.saleordersystem.SaleOrderSystemApplication - No active profile set, falling back to default profiles: default
+2023-08-10 11:26:18.194 [restartedMain] INFO  [,] o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-08-10 11:26:18.195 [restartedMain] INFO  [,] o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-08-10 11:26:19.714 [restartedMain] INFO  [,] o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2023-08-10 11:26:19.722 [restartedMain] INFO  [,] org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2023-08-10 11:26:19.723 [restartedMain] INFO  [,] org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2023-08-10 11:26:19.723 [restartedMain] INFO  [,] org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.41]
+2023-08-10 11:26:19.811 [restartedMain] INFO  [,] o.a.c.c.C.[Tomcat].[localhost].[/benewake] - Initializing Spring embedded WebApplicationContext
+2023-08-10 11:26:19.811 [restartedMain] INFO  [,] o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1616 ms
+2023-08-10 11:26:22.161 [restartedMain] INFO  [,] o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService
+2023-08-10 11:26:22.162 [restartedMain] INFO  [,] o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'asynExecutor'
+2023-08-10 11:26:22.304 [restartedMain] INFO  [,] o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2023-08-10 11:26:22.927 [restartedMain] INFO  [,] org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2023-08-10 11:26:22.957 [restartedMain] INFO  [,] o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '/benewake'
+2023-08-10 11:26:23.272 [restartedMain] INFO  [,] c.b.saleordersystem.SaleOrderSystemApplication - Started SaleOrderSystemApplication in 5.525 seconds (JVM running for 6.394)
+2023-08-10 11:26:37.377 [http-nio-8080-exec-1] INFO  [,] o.a.c.c.C.[Tomcat].[localhost].[/benewake] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-08-10 11:26:37.377 [http-nio-8080-exec-1] INFO  [,] org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2023-08-10 11:26:37.387 [http-nio-8080-exec-1] INFO  [,] org.springframework.web.servlet.DispatcherServlet - Completed initialization in 10 ms
+2023-08-10 11:26:37.467 [http-nio-8080-exec-1] INFO  [,] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2023-08-10 11:26:37.610 [http-nio-8080-exec-1] INFO  [,] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2023-08-10 11:26:37.732 [http-nio-8080-exec-1] INFO  [,] com.benewake.saleordersystem.aspect.LogAspect - 用户[0:0:0:0:0:0:0:1],在[2023-08-10 11:08:37],访问了[com.benewake.saleordersystem.controller.SaleOrderController]的[addInquiries]方法，参数为[[StartInquiryVo(inquiryList=[Inquiry(inquiryId=330, inquiryCode=null, state=null, createdTime=null, createdUser=null, salesmanId=null, itemId=null, customerId=null, saleNum=null, expectedTime=null, arrangedTime=null, inquiryType=null, remark=null)], startInquiry=1)]].
+2023-08-10 11:28:36.684 [SpringContextShutdownHook] INFO  [,] o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'asynExecutor'
+2023-08-10 11:28:36.692 [SpringContextShutdownHook] INFO  [,] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2023-08-10 11:28:36.699 [SpringContextShutdownHook] INFO  [,] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2023-08-10 11:36:01.437 [restartedMain] INFO  [,] c.b.saleordersystem.SaleOrderSystemApplication - Starting SaleOrderSystemApplication on ATHQ-20221218UI with PID 12568 (F:\study\javaProject\SaleOrderSystem\target\classes started by Lcs in F:\study\javaProject\SaleOrderSystem)
+2023-08-10 11:36:01.439 [restartedMain] INFO  [,] c.b.saleordersystem.SaleOrderSystemApplication - No active profile set, falling back to default profiles: default
+2023-08-10 11:36:01.489 [restartedMain] INFO  [,] o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-08-10 11:36:01.489 [restartedMain] INFO  [,] o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-08-10 11:36:03.050 [restartedMain] INFO  [,] o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2023-08-10 11:36:03.058 [restartedMain] INFO  [,] org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2023-08-10 11:36:03.059 [restartedMain] INFO  [,] org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2023-08-10 11:36:03.059 [restartedMain] INFO  [,] org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.41]
+2023-08-10 11:36:03.133 [restartedMain] INFO  [,] o.a.c.c.C.[Tomcat].[localhost].[/benewake] - Initializing Spring embedded WebApplicationContext
+2023-08-10 11:36:03.133 [restartedMain] INFO  [,] o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1643 ms
+2023-08-10 11:36:05.488 [restartedMain] INFO  [,] o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService
+2023-08-10 11:36:05.489 [restartedMain] INFO  [,] o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'asynExecutor'
+2023-08-10 11:36:05.633 [restartedMain] INFO  [,] o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2023-08-10 11:36:06.233 [restartedMain] INFO  [,] org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2023-08-10 11:36:06.252 [restartedMain] INFO  [,] o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '/benewake'
+2023-08-10 11:36:06.595 [restartedMain] INFO  [,] c.b.saleordersystem.SaleOrderSystemApplication - Started SaleOrderSystemApplication in 5.585 seconds (JVM running for 6.837)
+2023-08-10 11:36:12.688 [http-nio-8080-exec-4] INFO  [,] o.a.c.c.C.[Tomcat].[localhost].[/benewake] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-08-10 11:36:12.689 [http-nio-8080-exec-4] INFO  [,] org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2023-08-10 11:36:12.699 [http-nio-8080-exec-4] INFO  [,] org.springframework.web.servlet.DispatcherServlet - Completed initialization in 10 ms
+2023-08-10 11:36:12.782 [http-nio-8080-exec-4] INFO  [,] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2023-08-10 11:36:12.923 [http-nio-8080-exec-4] INFO  [,] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2023-08-10 11:36:13.039 [http-nio-8080-exec-4] INFO  [,] com.benewake.saleordersystem.aspect.LogAspect - 用户[0:0:0:0:0:0:0:1],在[2023-08-10 11:08:13],访问了[com.benewake.saleordersystem.controller.SaleOrderController]的[addInquiries]方法，参数为[[StartInquiryVo(inquiryList=[Inquiry(inquiryId=330, inquiryCode=null, state=null, createdTime=null, createdUser=null, salesmanId=null, itemId=null, customerId=null, saleNum=null, expectedTime=null, arrangedTime=null, inquiryType=null, remark=null)], startInquiry=1)]].
+2023-08-10 13:33:04.518 [SpringContextShutdownHook] INFO  [,] o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'asynExecutor'
+2023-08-10 13:33:04.532 [SpringContextShutdownHook] INFO  [,] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2023-08-10 13:33:04.536 [SpringContextShutdownHook] INFO  [,] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2023-08-10 13:43:21.762 [restartedMain] INFO  [,] c.b.saleordersystem.SaleOrderSystemApplication - Starting SaleOrderSystemApplication on ATHQ-20221218UI with PID 22904 (F:\study\javaProject\SaleOrderSystem\target\classes started by Lcs in F:\study\javaProject\SaleOrderSystem)
+2023-08-10 13:43:21.765 [restartedMain] INFO  [,] c.b.saleordersystem.SaleOrderSystemApplication - No active profile set, falling back to default profiles: default
+2023-08-10 13:43:21.826 [restartedMain] INFO  [,] o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-08-10 13:43:21.826 [restartedMain] INFO  [,] o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-08-10 13:43:24.278 [restartedMain] INFO  [,] o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2023-08-10 13:43:24.292 [restartedMain] INFO  [,] org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2023-08-10 13:43:24.293 [restartedMain] INFO  [,] org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2023-08-10 13:43:24.293 [restartedMain] INFO  [,] org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.41]
+2023-08-10 13:43:24.434 [restartedMain] INFO  [,] o.a.c.c.C.[Tomcat].[localhost].[/benewake] - Initializing Spring embedded WebApplicationContext
+2023-08-10 13:43:24.434 [restartedMain] INFO  [,] o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2607 ms
+2023-08-10 13:43:27.956 [restartedMain] INFO  [,] o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService
+2023-08-10 13:43:27.958 [restartedMain] INFO  [,] o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'asynExecutor'
+2023-08-10 13:43:28.130 [restartedMain] INFO  [,] o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2023-08-10 13:43:28.918 [restartedMain] INFO  [,] org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2023-08-10 13:43:28.944 [restartedMain] INFO  [,] o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '/benewake'
+2023-08-10 13:43:29.364 [restartedMain] INFO  [,] c.b.saleordersystem.SaleOrderSystemApplication - Started SaleOrderSystemApplication in 8.207 seconds (JVM running for 9.776)
+2023-08-10 13:44:18.025 [http-nio-8080-exec-3] INFO  [,] o.a.c.c.C.[Tomcat].[localhost].[/benewake] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-08-10 13:44:18.025 [http-nio-8080-exec-3] INFO  [,] org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2023-08-10 13:44:18.036 [http-nio-8080-exec-3] INFO  [,] org.springframework.web.servlet.DispatcherServlet - Completed initialization in 10 ms
+2023-08-10 13:44:18.117 [http-nio-8080-exec-3] INFO  [,] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2023-08-10 13:44:18.282 [http-nio-8080-exec-3] INFO  [,] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2023-08-10 13:44:18.412 [http-nio-8080-exec-3] INFO  [,] com.benewake.saleordersystem.aspect.LogAspect - 用户[0:0:0:0:0:0:0:1],在[2023-08-10 13:08:18],访问了[com.benewake.saleordersystem.controller.SaleOrderController]的[addInquiries]方法，参数为[[StartInquiryVo(inquiryList=[Inquiry(inquiryId=null, inquiryCode=null, state=null, createdTime=null, createdUser=null, salesmanId=3, itemId=1, customerId=1, saleNum=1, expectedTime=Fri Aug 11 00:00:00 GMT+08:00 2023, arrangedTime=null, inquiryType=3, remark=null)], startInquiry=0)]].
+2023-08-10 13:45:13.564 [http-nio-8080-exec-2] INFO  [,] com.benewake.saleordersystem.aspect.LogAspect - 用户[0:0:0:0:0:0:0:1],在[2023-08-10 13:08:13],访问了[com.benewake.saleordersystem.controller.SaleOrderController]的[addInquiries]方法，参数为[[StartInquiryVo(inquiryList=[Inquiry(inquiryId=null, inquiryCode=null, state=null, createdTime=null, createdUser=null, salesmanId=3, itemId=1, customerId=1, saleNum=1, expectedTime=Fri Aug 11 00:00:00 GMT+08:00 2023, arrangedTime=null, inquiryType=3, remark=null)], startInquiry=1)]].
+2023-08-10 13:49:00.407 [http-nio-8080-exec-6] INFO  [,] com.benewake.saleordersystem.aspect.LogAspect - 用户[0:0:0:0:0:0:0:1],在[2023-08-10 13:08:00],访问了[com.benewake.saleordersystem.controller.SaleOrderController]的[addInquiries]方法，参数为[[StartInquiryVo(inquiryList=[Inquiry(inquiryId=null, inquiryCode=null, state=null, createdTime=null, createdUser=null, salesmanId=3, itemId=1, customerId=1, saleNum=1, expectedTime=Fri Aug 11 00:00:00 GMT+08:00 2023, arrangedTime=null, inquiryType=3, remark=null)], startInquiry=0)]].
+2023-08-10 13:50:43.576 [SpringContextShutdownHook] INFO  [,] o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'asynExecutor'
+2023-08-10 13:50:43.583 [SpringContextShutdownHook] INFO  [,] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2023-08-10 13:50:43.589 [SpringContextShutdownHook] INFO  [,] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2023-08-10 13:50:50.940 [restartedMain] INFO  [,] c.b.saleordersystem.SaleOrderSystemApplication - Starting SaleOrderSystemApplication on ATHQ-20221218UI with PID 20412 (F:\study\javaProject\SaleOrderSystem\target\classes started by Lcs in F:\study\javaProject\SaleOrderSystem)
+2023-08-10 13:50:50.943 [restartedMain] INFO  [,] c.b.saleordersystem.SaleOrderSystemApplication - No active profile set, falling back to default profiles: default
+2023-08-10 13:50:50.996 [restartedMain] INFO  [,] o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-08-10 13:50:50.996 [restartedMain] INFO  [,] o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-08-10 13:50:52.598 [restartedMain] INFO  [,] o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2023-08-10 13:50:52.606 [restartedMain] INFO  [,] org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2023-08-10 13:50:52.607 [restartedMain] INFO  [,] org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2023-08-10 13:50:52.607 [restartedMain] INFO  [,] org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.41]
+2023-08-10 13:50:52.688 [restartedMain] INFO  [,] o.a.c.c.C.[Tomcat].[localhost].[/benewake] - Initializing Spring embedded WebApplicationContext
+2023-08-10 13:50:52.688 [restartedMain] INFO  [,] o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1691 ms
+2023-08-10 13:50:55.123 [restartedMain] INFO  [,] o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService
+2023-08-10 13:50:55.124 [restartedMain] INFO  [,] o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'asynExecutor'
+2023-08-10 13:50:55.256 [restartedMain] INFO  [,] o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2023-08-10 13:50:55.902 [restartedMain] INFO  [,] org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2023-08-10 13:50:55.921 [restartedMain] INFO  [,] o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '/benewake'
+2023-08-10 13:50:56.242 [restartedMain] INFO  [,] c.b.saleordersystem.SaleOrderSystemApplication - Started SaleOrderSystemApplication in 5.717 seconds (JVM running for 6.701)
+2023-08-10 13:51:00.050 [http-nio-8080-exec-2] INFO  [,] o.a.c.c.C.[Tomcat].[localhost].[/benewake] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-08-10 13:51:00.050 [http-nio-8080-exec-2] INFO  [,] org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2023-08-10 13:51:00.060 [http-nio-8080-exec-2] INFO  [,] org.springframework.web.servlet.DispatcherServlet - Completed initialization in 10 ms
+2023-08-10 13:51:00.141 [http-nio-8080-exec-2] INFO  [,] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2023-08-10 13:51:00.283 [http-nio-8080-exec-2] INFO  [,] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2023-08-10 13:51:00.402 [http-nio-8080-exec-2] INFO  [,] com.benewake.saleordersystem.aspect.LogAspect - 用户[0:0:0:0:0:0:0:1],在[2023-08-10 13:08:00],访问了[com.benewake.saleordersystem.controller.SaleOrderController]的[addInquiries]方法，参数为[[StartInquiryVo(inquiryList=[Inquiry(inquiryId=null, inquiryCode=null, state=null, createdTime=null, createdUser=null, salesmanId=3, itemId=1, customerId=1, saleNum=1, expectedTime=Fri Aug 11 00:00:00 GMT+08:00 2023, arrangedTime=null, inquiryType=3, remark=null)], startInquiry=0)]].
+2023-08-10 13:51:27.136 [SpringContextShutdownHook] INFO  [,] o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'asynExecutor'
+2023-08-10 13:51:27.144 [SpringContextShutdownHook] INFO  [,] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2023-08-10 13:51:27.150 [SpringContextShutdownHook] INFO  [,] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2023-08-10 14:01:32.173 [restartedMain] INFO  [,] c.b.saleordersystem.SaleOrderSystemApplication - Starting SaleOrderSystemApplication on ATHQ-20221218UI with PID 25244 (F:\study\javaProject\SaleOrderSystem\target\classes started by Lcs in F:\study\javaProject\SaleOrderSystem)
+2023-08-10 14:01:32.175 [restartedMain] INFO  [,] c.b.saleordersystem.SaleOrderSystemApplication - No active profile set, falling back to default profiles: default
+2023-08-10 14:01:32.226 [restartedMain] INFO  [,] o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-08-10 14:01:32.226 [restartedMain] INFO  [,] o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-08-10 14:01:33.793 [restartedMain] INFO  [,] o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2023-08-10 14:01:33.801 [restartedMain] INFO  [,] org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2023-08-10 14:01:33.802 [restartedMain] INFO  [,] org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2023-08-10 14:01:33.803 [restartedMain] INFO  [,] org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.41]
+2023-08-10 14:01:33.878 [restartedMain] INFO  [,] o.a.c.c.C.[Tomcat].[localhost].[/benewake] - Initializing Spring embedded WebApplicationContext
+2023-08-10 14:01:33.879 [restartedMain] INFO  [,] o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1652 ms
+2023-08-10 14:01:36.268 [restartedMain] INFO  [,] o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService
+2023-08-10 14:01:36.269 [restartedMain] INFO  [,] o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'asynExecutor'
+2023-08-10 14:01:36.396 [restartedMain] INFO  [,] o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2023-08-10 14:01:37.024 [restartedMain] INFO  [,] org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2023-08-10 14:01:37.041 [restartedMain] INFO  [,] o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '/benewake'
+2023-08-10 14:01:37.358 [restartedMain] INFO  [,] c.b.saleordersystem.SaleOrderSystemApplication - Started SaleOrderSystemApplication in 5.712 seconds (JVM running for 6.783)
+2023-08-10 14:02:18.075 [http-nio-8080-exec-7] INFO  [,] o.a.c.c.C.[Tomcat].[localhost].[/benewake] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-08-10 14:02:18.076 [http-nio-8080-exec-7] INFO  [,] org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2023-08-10 14:02:18.087 [http-nio-8080-exec-7] INFO  [,] org.springframework.web.servlet.DispatcherServlet - Completed initialization in 10 ms
+2023-08-10 14:02:18.183 [http-nio-8080-exec-7] INFO  [,] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2023-08-10 14:02:18.326 [http-nio-8080-exec-7] INFO  [,] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2023-08-10 14:02:18.440 [http-nio-8080-exec-7] INFO  [,] com.benewake.saleordersystem.aspect.LogAspect - 用户[0:0:0:0:0:0:0:1],在[2023-08-10 14:08:18],访问了[com.benewake.saleordersystem.controller.SaleOrderController]的[updateInquired]方法，参数为[[Inquiry(inquiryId=320, inquiryCode=XSYC2023080019, state=0, createdTime=null, createdUser=null, salesmanId=3, itemId=3, customerId=3, saleNum=49, expectedTime=Fri Aug 11 00:00:00 GMT+08:00 2023, arrangedTime=null, inquiryType=4, remark=修改后！！！)]].
+2023-08-10 14:03:29.354 [http-nio-8080-exec-5] INFO  [,] com.benewake.saleordersystem.aspect.LogAspect - 用户[0:0:0:0:0:0:0:1],在[2023-08-10 14:08:29],访问了[com.benewake.saleordersystem.controller.SaleOrderController]的[updateInquired]方法，参数为[[Inquiry(inquiryId=330, inquiryCode=XSYC2023080019, state=0, createdTime=null, createdUser=null, salesmanId=3, itemId=3, customerId=3, saleNum=49, expectedTime=Fri Aug 11 00:00:00 GMT+08:00 2023, arrangedTime=null, inquiryType=4, remark=修改后！！！)]].
+2023-08-10 14:05:09.872 [http-nio-8080-exec-9] INFO  [,] com.benewake.saleordersystem.aspect.LogAspect - 用户[0:0:0:0:0:0:0:1],在[2023-08-10 14:08:09],访问了[com.benewake.saleordersystem.controller.SaleOrderController]的[updateInquired]方法，参数为[[Inquiry(inquiryId=330, inquiryCode=null, state=0, createdTime=null, createdUser=null, salesmanId=3, itemId=3, customerId=3, saleNum=49, expectedTime=Fri Aug 11 00:00:00 GMT+08:00 2023, arrangedTime=null, inquiryType=4, remark=修改后！！！)]].

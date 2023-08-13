@@ -1,0 +1,54 @@
+# server
+server:
+  servlet:
+    context-path: /benewake
+  port: 8080
+# spring
+spring:
+  application:
+    name: SaleOrderSystem
+#  rabbitmq:
+#    host: 47.93.30.99
+#    port: 5672
+#    username: guest
+#    password: guest
+#    virtual-host: /
+#    publisher-confirm-type: correlated
+#    publisher-returns: true
+#    listener:
+#      simple:
+#        acknowledge-mode: manual
+#      template:
+#        mandatory: true
+  datasource:
+    url: jdbc:mysql://192.168.201.129:3306/reggie?characterEncoding=utf-8
+    username: root
+    password: root
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    type: com.zaxxer.hikari.HikariDataSource
+    hikari:
+      maximum-pool-size: 15
+      minimum-idle: 5
+      idle-timeout: 30000
+
+# mybatis-plus
+mybatis-plus:
+  global-config:
+    db-config:
+      logic-delete-field: deleted
+      logic-delete-value: 1
+      logic-not-delete-value: 0
+      id-type: auto
+  configuration:
+    map-underscore-to-camel-case: true
+   # log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+
+# 日志管理
+logging:
+  config: classpath:logback-spring.xml
+  file:
+    path: ./logs
+
+
+
+
